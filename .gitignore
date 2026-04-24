@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.DS_Store
+Thumbs.db
+venv/
+env/
+
+# Output files (if unneeded)
+# snowboard_results.png
+# results*.txt

@@ -1,0 +1,906 @@
+Competition,Year,Gender,Athlete,Stance,Run,TrickID,Switch,Direction,SpinDegrees,DoubleCork,TripleCork,Rodeo,Grab,Difficulty,JumpScore,JumpID
+Aspen WC,2025,M,BOUCHARD Eli,G,1,b-18-Ng,N,b,1800,N,N,N,Ng,9,89.75,A
+Aspen WC,2025,M,BOUCHARD Eli,G,2,T-Mo,N,f,,N,Y,N,,,93.0,B
+Aspen WC,2025,M,BOUCHARD Eli,G,3,b-19-Ng,N,b,1980,N,N,N,Ng,10,96.0,A
+Aspen WC,2025,M,HASEGAWA Taiga,R,1,Cab-18-Wed,Y,Cab,1800,N,N,N,Wed,9.5,89.5,A
+Aspen WC,2025,M,HASEGAWA Taiga,R,2,f-18-I,N,f,1800,N,N,N,I,9,85.25,B
+Aspen WC,2025,M,HASEGAWA Taiga,R,3,f-19-I,N,f,1980,N,N,N,I,10,95.0,B
+Aspen WC,2025,M,MIYAMURA Yuto,R,1,b-18-Me,N,b,1800,N,N,N,Me,9,88.75,A
+Aspen WC,2025,M,MIYAMURA Yuto,R,2,f-16-I,N,f,1600,N,N,N,I,8,31.0,B
+Aspen WC,2025,M,MIYAMURA Yuto,R,3,f-16-I,N,f,1600,N,N,N,I,8,82.5,B
+Aspen WC,2025,M,MARTIN Oliver,R,1,b-D-10,N,b,1080,Y,N,N,,7.5,42.0,A
+Aspen WC,2025,M,MARTIN Oliver,R,2,b-T-18-I,N,b,1800,N,Y,N,I,10,93.25,A
+Aspen WC,2025,M,MARTIN Oliver,R,3,f-T-18-Wed,N,f,1800,N,Y,N,Wed,10,77.5,B
+Aspen WC,2025,M,GERARD Redmond,R,1,x-b-16-Wed,Y,b,1600,N,N,N,Wed,8.5,81.0,A
+Aspen WC,2025,M,GERARD Redmond,R,2,b-18-Me,N,b,1800,N,N,N,Me,9,87.0,B
+Aspen WC,2025,M,McMORRIS Mark,R,1,x-b-16-Me,Y,b,1600,N,N,N,Me,8.5,78.75,A
+Aspen WC,2025,M,McMORRIS Mark,R,2,b-16-I,N,b,1600,N,N,N,I,8,82.5,B
+Aspen WC,2025,M,BREARLEY Liam,G,1,x-b-16-Wed,Y,b,1600,N,N,N,Wed,8.5,18.0,A
+Aspen WC,2025,M,BREARLEY Liam,G,2,Cab-18-I,Y,Cab,1800,N,N,N,I,9.5,77.75,B
+Aspen WC,2025,M,BREARLEY Liam,G,3,x-b-12-Wed,Y,b,1260,N,N,N,Wed,7.5,59.5,A
+Aspen WC,2025,M,CORNING Chris,G,1,b-18-Me,N,b,1800,N,N,N,Me,9,89.0,A
+Aspen WC,2025,M,CORNING Chris,G,2,f-18-Me,N,f,1800,N,N,N,Me,9,45.25,B
+Aspen WC,2025,M,KIMURA Kira,R,1,b-19-Me,N,b,1980,N,N,N,Me,10,20.75,A
+Aspen WC,2025,M,KIMURA Kira,R,2,b-14-Me,N,b,1440,N,N,N,Me,8,33.75,A
+Aspen WC,2025,M,KIMURA Kira,R,3,x-b-18-Ddr,Y,b,1800,N,N,N,Ddr,9.5,78.0,B
+Aspen WC,2025,M,KIRKHUS Oyvind,R,1,f-T-18-I,N,f,1800,N,Y,N,I,10,21.25,A
+Aspen WC,2025,M,KIRKHUS Oyvind,R,2,f-T-18-I,N,f,1800,N,Y,N,I,10,91.25,A
+Aspen WC,2025,M,KIRKHUS Oyvind,R,3,b-T-14-I,N,b,1440,N,Y,N,I,10,15.0,B
+Aspen WC,2025,M,SU Yiming,G,1,b-18-I,N,b,1800,N,N,N,I,9,86.0,A
+Aspen WC,2025,M,SU Yiming,G,2,x-b-16-Me,Y,b,1600,N,N,N,Me,8.5,80.0,B
+Aspen WC,2025,M,SU Yiming,G,3,b-18-I,N,b,1800,N,N,N,I,9,88.0,A
+Aspen WC,2025,M,ROISLAND Mons,R,1,x-b-12-Me,Y,b,1260,N,N,N,Me,7.5,49.5,A
+Aspen WC,2025,M,ROISLAND Mons,R,2,x-b-19-Me,Y,b,1980,N,N,N,Me,10,78.5,A
+Aspen WC,2025,M,ROISLAND Mons,R,3,b-18-Me,N,b,1800,N,N,N,Me,9,87.75,B
+Aspen WC,2025,M,MENZIES Dane,G,1,f-D-18-Tg,N,f,1800,Y,N,N,Tg,10,87.5,A
+Aspen WC,2025,M,MENZIES Dane,G,2,b-14-Me,N,b,1440,N,N,N,Me,8,62.0,B
+Aspen WC,2025,M,MENZIES Dane,G,3,b-18-Me,N,b,1800,N,N,N,Me,9,76.5,B
+Aspen WC,2025,M,VOCKENSPERGER Leon,R,1,x-b-16-Wed,Y,b,1600,N,N,N,Wed,8.5,14.5,A
+Aspen WC,2025,M,VOCKENSPERGER Leon,R,2,x-b-16-Wed,Y,b,1600,N,N,N,Wed,8.5,75.25,A
+Aspen WC,2025,M,VOCKENSPERGER Leon,R,3,b-18-Me,N,b,1800,N,N,N,Me,9,86.25,B
+Aspen WC,2025,M,HENKES Justus,R,1,HW-b-D-10-Wed,N,b,1080,Y,N,N,Wed,7.5,75.25,A
+Aspen WC,2025,M,HENKES Justus,R,2,f-NB-to-x-b-9-Me,N,f,900,N,N,N,Me,5,77.75,B
+Aspen WC,2025,M,HENKES Justus,R,3,f-NB-to-x-b-10-Me,N,f,1080,N,N,N,Me,6,83.0,B
+Aspen WC,2025,M,JAMIESON Rocco,R,1,b-D-14-Tg,N,b,1440,Y,N,N,Tg,9.5,64.25,A
+Aspen WC,2025,M,JAMIESON Rocco,R,2,f-18-Bd,N,f,1800,N,N,N,Bd,9,22.0,B
+Aspen WC,2025,M,JAMIESON Rocco,R,3,f-18-Bd,N,f,1800,N,N,N,Bd,9,87.25,B
+Aspen WC,2025,M,JOBIN Francis,R,1,x-b-D-Rd-12-Ng,Y,b,1260,Y,N,Y,Ng,9.5,78.0,A
+Aspen WC,2025,M,JOBIN Francis,R,2,b-T-14-I,N,b,1440,N,Y,N,I,10,67.25,B
+Aspen WC,2025,M,JOBIN Francis,R,3,x-b-D-Rd-12-Ng,Y,b,1260,Y,N,Y,Ng,9.5,83.5,A
+Aspen WC,2025,M,KIMATA Ryoma,R,1,f-18-D-Tg,N,f,1800,Y,N,N,Tg,10,91.5,A
+Aspen WC,2025,M,KIMATA Ryoma,R,2,b-14-Me,N,b,1440,N,N,N,Me,8,59.25,B
+Aspen WC,2025,M,BULLOCK-WOMBLE Fynn,R,1,f-14-Tg,N,f,1440,N,N,N,Tg,8,30.75,A
+Aspen WC,2025,M,BULLOCK-WOMBLE Fynn,R,2,b-18-Ng,N,b,1800,N,N,N,Ng,9,79.25,B
+Aspen WC,2025,M,BULLOCK-WOMBLE Fynn,R,3,f-14-Tg,N,f,1440,N,N,N,Tg,8,65.75,A
+Aspen WC,2025,M,HENRICKSEN Dusty,G,1,b-14-J,N,b,1440,N,N,N,J,8,68.25,A
+Aspen WC,2025,M,HENRICKSEN Dusty,G,2,f-5-I,N,f,500,N,N,N,I,3,20.5,B
+Aspen WC,2025,M,HENRICKSEN Dusty,G,3,f-D-Rd-10-I,N,f,1080,Y,N,Y,I,8.0,70.5,B
+Aspen WC,2025,M,JARVILEHTO Kalle,R,1,x-b-16-Ng,Y,b,1600,N,N,N,Ng,8.5,71.25,A
+Aspen WC,2025,M,JARVILEHTO Kalle,R,2,b-16-Ng,N,b,1600,N,N,N,Ng,8,17.25,B
+Aspen WC,2025,M,JARVILEHTO Kalle,R,3,b-D-16-Ng,N,b,1600,Y,N,N,Ng,9.5,66.5,B
+Aspen WC,2025,M,FITZSIMONS Sean,R,1,b-T-14-Wed,N,b,1440,N,Y,N,Wed,10,64.0,A
+Aspen WC,2025,M,FITZSIMONS Sean,R,2,f-T-14-Wed,N,f,1440,N,Y,N,Wed,10,71.0,B
+Aspen WC,2025,M,ALMQVIST Gabriel,R,1,b-T-14-Me,N,b,1440,N,Y,N,Me,10,65.25,A
+Aspen WC,2025,M,ALMQVIST Gabriel,R,2,x-b-10-Ng,Y,b,1080,N,N,N,Ng,6.5,35.75,B
+Aspen WC,2025,M,ALMQVIST Gabriel,R,3,x-b-T-14-Wed,Y,b,1440,N,Y,N,Wed,10,63.25,B
+Aspen WC,2025,M,DEPRIEST Brooklyn,R,1,x-b-T-14-Wed,Y,b,1440,N,Y,N,Wed,10,67.75,A
+Aspen WC,2025,M,DEPRIEST Brooklyn,R,2,b-T-14-Me-to-I,N,b,1440,N,Y,N,I,10,60.5,B
+Aspen WC,2025,M,TOBITA Ruki,R,1,b-16-St,N,b,1600,N,N,N,St,8,66.5,A
+Aspen WC,2025,M,TOBITA Ruki,R,2,f-18-Me,N,f,1800,N,N,N,Me,9,61.0,B
+Aspen WC,2025,M,LOTORTO Alex,G,1,b-16-Me,N,b,1600,N,N,N,Me,8,76.5,A
+Aspen WC,2025,M,LOTORTO Alex,G,2,x-b-T-14-Wed,Y,b,1440,N,Y,N,Wed,10,8.5,B
+Aspen WC,2025,M,LOTORTO Alex,G,3,x-b-T-12-Wed,Y,b,1260,N,Y,N,Wed,9.5,46.75,B
+Aspen WC,2025,M,HRONES Jakub,G,1,Cab-16-Ng,Y,Cab,1600,N,N,N,Ng,8.5,62.0,A
+Aspen WC,2025,M,HRONES Jakub,G,2,f-D-14-I,N,f,1440,Y,N,N,I,9.5,17.0,B
+Aspen WC,2025,M,HRONES Jakub,G,3,f-14-Wed,N,f,1440,N,N,N,Wed,8,57.5,B
+Aspen WC,2025,M,MATHISEN William,G,1,b-T-14-Wed,N,b,1440,N,Y,N,Wed,10,64.75,A
+Aspen WC,2025,M,MATHISEN William,G,2,f-3,N,f,300,N,N,N,,2,12.0,B
+Aspen WC,2025,M,MATHISEN William,G,3,f-D-12-Tg,N,f,1260,Y,N,N,Tg,8.5,51.75,B
+Aspen WC,2025,M,PARKINSON Jesse,R,1,f-12-Tdr,N,f,1260,N,N,N,Tdr,7,49.0,A
+Aspen WC,2025,M,PARKINSON Jesse,R,2,b-T-14-Wed,N,b,1440,N,Y,N,Wed,10,65.0,B
+Aspen WC,2025,M,SMITH Truth,G,1,b-16-Me,N,b,1600,N,N,N,Me,8,73.0,A
+Aspen WC,2025,M,SMITH Truth,G,2,HW-f-10-Ng,N,f,1080,N,N,N,Ng,6,40.25,B
+Aspen WC,2025,M,PIZARRO Pedro,R,1,f-D-14-Me,N,f,1440,Y,N,N,Me,9.5,42.0,A
+Aspen WC,2025,M,PIZARRO Pedro,R,2,b-D-12-Me,N,b,1260,Y,N,N,Me,8.5,47.75,B
+Aspen WC,2025,M,PIZARRO Pedro,R,3,f-14-Me,N,f,1440,N,N,N,Me,8,60.75,A
+Aspen WC,2025,M,MEKINC Naj,G,1,b-T-14-Ddr,N,b,1440,N,Y,N,Ddr,10,42.75,A
+Aspen WC,2025,M,MEKINC Naj,G,2,f-10-I,N,f,1080,N,N,N,I,6,39.75,B
+Aspen WC,2025,M,MEKINC Naj,G,3,b-T-14-Ddr,N,b,1440,N,Y,N,Ddr,10,63.75,A
+Aspen WC,2025,M,ARAGON SALGUERO Jose,G,1,x-b-D-10-Wed,Y,b,1080,Y,N,N,Wed,8.0,36.75,A
+Aspen WC,2025,M,ARAGON SALGUERO Jose,G,3,b-14-I,N,b,1440,N,N,N,I,8,65.25,B
+Aspen WC,2025,M,RICE Brian,G,1,b-D-14-Tg,N,b,1440,Y,N,N,Tg,9.5,51.75,A
+Aspen WC,2025,M,RICE Brian,G,2,f-D-10-Tdr,N,f,1080,N,N,N,Tdr,6,23.0,B
+Aspen WC,2025,M,RICE Brian,G,3,f-T-12-Tdr,N,f,1260,N,Y,N,Tdr,9,43.75,B
+Aspen WC,2025,M,JOHNSON Liam,R,1,b-12-Me,N,b,1260,N,N,N,Me,7,48.75,A
+Aspen WC,2025,M,JOHNSON Liam,R,2,x-b-D-12-Wed,Y,b,1260,Y,N,N,Wed,9.0,46.75,B
+Aspen WC,2025,M,BOSCH Anthon,R,1,f-14-Wed,N,f,1440,N,N,N,Wed,8,59.25,A
+Aspen WC,2025,M,BOSCH Anthon,R,2,b-14-Me,N,b,1440,N,N,N,Me,8,27.5,B
+Aspen WC,2025,M,JAROS Samuel,G,1,Cab-14-St,Y,Cab,1440,N,N,N,St,8.5,65.0,A
+Aspen WC,2025,M,JAROS Samuel,G,2,f-14-Ste,N,f,1440,N,N,N,Ste,8,16.5,B
+Aspen WC,2025,M,VALAX Enzo,R,1,b-D-16-Tg,N,b,1600,Y,N,N,Tg,9.5,15.25,A
+Aspen WC,2025,M,VALAX Enzo,R,2,b-D-16-Tg,N,b,1600,Y,N,N,Tg,9.5,64.0,A
+Aspen WC,2025,M,VALAX Enzo,R,3,x-b-T-16-Wed,Y,b,1600,N,Y,N,Wed,10,17.0,B
+Aspen WC,2025,M,SOLOMON Will,R,1,b-T-14-Wed,N,b,1440,N,Y,N,Wed,10,63.25,A
+Aspen WC,2025,M,SOLOMON Will,R,2,f-D-12-Tg,N,f,1260,Y,N,N,Tg,8.5,13.75,B
+Aspen WC,2025,M,WROBEL Evan,G,1,Cab-T-12-Go,Y,Cab,1260,N,Y,N,Go,9.5,55.75,A
+Aspen WC,2025,M,WROBEL Evan,G,2,f-14-Me,N,f,1440,N,N,N,Me,8,14.0,B
+Aspen WC,2025,M,SPALDING Cameron,R,1,x-b-14-Wed,Y,b,1440,N,N,N,Wed,8.5,66.75,A
+Aspen WC,2025,M,FARRELL Lyon,R,1,x-b-14-Tg,Y,b,1440,N,N,N,Tg,8.5,16.25,A
+Aspen WC,2025,M,FARRELL Lyon,R,2,x-b-T-14-Tg,Y,b,1440,N,Y,N,Tg,10,18.25,A
+Aspen WC,2025,M,FARRELL Lyon,R,3,b-16-D-Ng,N,b,1600,Y,N,N,Ng,9.5,46.0,B
+Aspen WC,2025,M,YANEZ Alvaro,G,1,b-D-Rd-9-Me,N,b,900,Y,N,Y,Me,7.0,47.25,A
+Aspen WC,2025,M,OGIWARA Hiroto,R,1,b-18-Me,N,b,1800,N,N,N,Me,9,19.0,A
+Aspen WC,2025,M,OGIWARA Hiroto,R,2,b-18-Me,N,b,1800,N,N,N,Me,9,20.75,A
+Aspen WC,2025,M,OGIWARA Hiroto,R,3,x-b-18-Me,Y,b,1800,N,N,N,Me,9.5,18.25,B
+Aspen WC,2025,M,MATTEOLI Ian,R,1,f-19-Wed-to-Tg,N,f,1980,N,N,N,Tg,10,19.25,A
+Aspen WC,2025,M,MATTEOLI Ian,R,2,f-18-Wed-to-Tg,N,f,1800,N,N,N,Tg,9,13.5,A
+Aspen WC,2025,M,MATTEOLI Ian,R,3,Cab-18-I-to-Ng,Y,Cab,1800,N,N,N,Ng,9.5,18.5,B
+Aspen WC,2025,M,DENDA Jeremy,G,1,Cab-18-I,Y,Cab,1800,N,N,N,I,9.5,18.0,A
+Aspen WC,2025,M,DENDA Jeremy,G,3,f-D-12-Tg,N,f,1260,Y,N,N,Tg,8.5,10.75,B
+Aspen WC,2025,M,FEDOROWYCZ Lys,R,1,b-D-12-Wed,N,b,1260,Y,N,N,Wed,8.5,8.5,A
+Aspen WC,2025,M,FEDOROWYCZ Lys,R,2,b-T-14-Wed,N,b,1440,N,Y,N,Wed,10,7.5,A
+Aspen WC,2025,M,FEDOROWYCZ Lys,R,3,f-D-14-I,N,f,1440,Y,N,N,I,9.5,20.0,B
+Aspen WC,2025,M,BRCIC Dante,R,1,b-T-14-I,N,b,1440,N,Y,N,I,10,25.5,A
+Aspen WC,2025,M,BRCIC Dante,R,2,b-T-14-I,N,b,1440,N,Y,N,I,10,23.75,A
+Aspen WC,2025,M,FRAMARIN Loris,R,1,f-D-Td-14-TK,N,f,1440,Y,N,N,TK,9.5,17.75,A
+Aspen WC,2025,M,MAZET BROWN Txema,G,1,Cab-19-I,Y,Cab,1980,N,N,N,I,10,13.25,A
+Aspen WC,2025,M,MAZET BROWN Txema,G,2,Cab-16-I,Y,Cab,1600,N,N,N,I,8.5,15.75,A
+Aspen WC,2025,M,MAZET BROWN Txema,G,3,Cab-T-16-I,Y,Cab,1600,N,Y,N,I,10,16.0,A
+Beijing WC,2024,M,OGIWARA Hiroto,R,1,b-18-I,N,b,1800,N,N,N,I,9,86.0,A
+Beijing WC,2024,M,OGIWARA Hiroto,R,2,f-T-18-Wed,N,f,1800,N,Y,N,Wed,10,83.5,B
+Beijing WC,2024,M,MATTEOLI Ian,R,1,f-21-Wed-to-Tg,N,f,2160,N,N,N,Tg,10,97.75,A
+Beijing WC,2024,M,MATTEOLI Ian,R,2,Cab-16-I-to-Ng,Y,Cab,1600,N,N,N,Ng,8.5,42.5,B
+Beijing WC,2024,M,MATTEOLI Ian,R,3,Cab-18-I-to-Ng,Y,Cab,1800,N,N,N,Ng,9.5,67.75,B
+Beijing WC,2024,M,YANG Wenlong,G,1,f-D-18-Wed-to-Tg,N,f,1800,Y,N,N,Tg,10,78.0,A
+Beijing WC,2024,M,YANG Wenlong,G,2,b-18-J,N,b,1800,N,N,N,J,9,81.25,B
+Beijing WC,2024,M,KIRKHUS Oyvind,R,1,x-b-D-Rd-12-Ng,Y,b,1260,Y,N,Y,Ng,9.5,82.5,A
+Beijing WC,2024,M,KIRKHUS Oyvind,R,2,b-T-16-I,N,b,1600,N,Y,N,I,10,71.5,B
+Beijing WC,2024,M,CORNING Chris,G,1,b-T-18-Me,N,b,1800,N,Y,N,Me,10,80.0,A
+Beijing WC,2024,M,CORNING Chris,G,2,f-18-Me,N,f,1800,N,N,N,Me,9,68.0,B
+Beijing WC,2024,M,CORNING Chris,G,3,f-18-Me,N,f,1800,N,N,N,Me,9,72.75,B
+Beijing WC,2024,M,MILLAUER Clemens,R,1,x-b-D-16-Ng,Y,b,1600,Y,N,N,Ng,10.0,70.0,A
+Beijing WC,2024,M,MILLAUER Clemens,R,2,b-D-16-Ng,N,b,1600,Y,N,N,Ng,9.5,72.25,B
+Beijing WC,2024,M,VERMAAT Sam,R,1,f-T-18-Tg,N,f,1800,N,Y,N,Tg,10,27.0,A
+Beijing WC,2024,M,VERMAAT Sam,R,2,f-D-18-Tg,N,f,1800,Y,N,N,Tg,10,63.25,A
+Beijing WC,2024,M,VERMAAT Sam,R,3,Cab-T-16-I,Y,Cab,1600,N,Y,N,I,10,68.75,B
+Beijing WC,2024,M,KIMATA Ryoma,R,1,f-18-D-Tg,N,f,1800,Y,N,N,Tg,10,80.75,A
+Beijing WC,2024,M,KIMATA Ryoma,R,2,b-18-Me,N,b,1800,N,N,N,Me,9,43.25,B
+Beijing WC,2024,M,HASEGAWA Taiga,R,1,Cab-19-Wed,Y,Cab,1980,N,N,N,Wed,10,27.75,A
+Beijing WC,2024,M,HASEGAWA Taiga,R,2,Cab-19-Wed,Y,Cab,1980,N,N,N,Wed,10,89.75,A
+Beijing WC,2024,M,HASEGAWA Taiga,R,3,x-b-19-Wed,Y,b,1980,N,N,N,Wed,10,31.75,B
+Beijing WC,2024,M,SU Yiming,G,1,x-b-19-Ne,Y,b,1980,N,N,N,,10,25.25,A
+Beijing WC,2024,M,SU Yiming,G,2,x-b-19-Me,Y,b,1980,N,N,N,Me,10,23.0,A
+Beijing WC,2024,M,SU Yiming,G,3,b-19-I,N,b,1980,N,N,N,I,10,89.0,B
+Beijing WC,2024,M,MIYAMURA Yuto,R,1,f-16-I,N,f,1600,N,N,N,I,8,70.75,A
+Beijing WC,2024,M,MIYAMURA Yuto,R,2,b-18-Me,N,b,1800,N,N,N,Me,9,81.0,B
+Beijing WC,2024,M,MIYAMURA Yuto,R,3,b-19-Me,N,b,1980,N,N,N,Me,10,93.0,B
+Beijing WC,2024,M,VALAX Enzo,R,1,b-16-Tg,N,b,1600,N,N,N,Tg,8,77.5,A
+Beijing WC,2024,M,VALAX Enzo,R,2,x-b-T-16-Ng,Y,b,1600,N,Y,N,Ng,10,72.75,B
+Beijing WC,2024,M,HUBER Nicolas,G,1,f-T-16-Tg,N,f,1600,N,Y,N,Tg,10,71.25,A
+Beijing WC,2024,M,HUBER Nicolas,G,2,b-18-Ro,N,b,1800,N,N,N,Ro,9,78.25,B
+Beijing WC,2024,M,SPALDING Cameron,R,1,Cab-T-18-I,Y,Cab,1800,N,Y,N,I,10,81.75,A
+Beijing WC,2024,M,SPALDING Cameron,R,2,f-14-Ste,N,f,1440,N,N,N,Ste,8,66.25,B
+Beijing WC,2024,M,JAMIESON Rocco,R,1,x-b-16-J,Y,b,1600,N,N,N,J,8.5,76.0,A
+Beijing WC,2024,M,JAMIESON Rocco,R,2,b-18-J,N,b,1800,N,N,N,J,9,71.5,B
+Beijing WC,2024,M,BREARLEY Liam,G,1,x-b-14-Ddr,Y,b,1440,N,N,N,Ddr,8.5,69.25,A
+Beijing WC,2024,M,BREARLEY Liam,G,2,Cab-T-16-I,Y,Cab,1600,N,Y,N,I,10,66.75,B
+Beijing WC,2024,M,BREARLEY Liam,G,3,Cab-T-16-I,Y,Cab,1600,N,Y,N,I,10,77.25,B
+Beijing WC,2024,M,ROBERTSON-HAHN Joshua,R,1,f-T-18-Tg,N,f,1800,N,Y,N,Tg,10,42.5,A
+Beijing WC,2024,M,ROBERTSON-HAHN Joshua,R,2,b-T-14-I,N,b,1440,N,Y,N,I,10,64.0,B
+Beijing WC,2024,M,ROBERTSON-HAHN Joshua,R,3,f-T-18-Tg,N,f,1800,N,Y,N,Tg,10,82.0,A
+Beijing WC,2024,M,HRONES Jakub,G,1,Cab-18-I-to-Ng,Y,Cab,1800,N,N,N,Ng,9.5,25.25,A
+Beijing WC,2024,M,HRONES Jakub,G,2,Cab-18-Wed-I-to-Ng,Y,Cab,1800,N,N,N,Ng,9.5,86.75,A
+Beijing WC,2024,M,HRONES Jakub,G,3,f-14-Wed,N,f,1440,N,N,N,Wed,8,59.0,B
+Beijing WC,2024,M,VICKTOR Noah,G,1,b-18-Me,N,b,1800,N,N,N,Me,9,76.75,A
+Beijing WC,2024,M,VICKTOR Noah,G,2,f-14-I,N,f,1440,N,N,N,I,8,64.5,B
+Beijing WC,2024,M,FRAMARIN Loris,R,1,Td-12-TK,N,f,1260,N,N,N,TK,7,9.0,A
+Beijing WC,2024,M,FRAMARIN Loris,R,2,f-D-Td-14-I,N,f,1440,Y,N,N,I,9.5,60.0,A
+Beijing WC,2024,M,FRAMARIN Loris,R,3,b-14-Ng-to-I,N,b,1440,N,N,N,I,8,70.25,B
+Beijing WC,2024,M,LIU Haoyu,R,1,x-b-14-Ng,Y,b,1440,N,N,N,Ng,8.5,13.25,A
+Beijing WC,2024,M,LIU Haoyu,R,2,x-b-14-Ng,Y,b,1440,N,N,N,Ng,8.5,63.25,A
+Beijing WC,2024,M,LIU Haoyu,R,3,b-14-Ng,N,b,1440,N,N,N,Ng,8,66.0,B
+Beijing WC,2024,M,GE Chunyu,G,1,f-18-Wed-to-Tg,N,f,1800,N,N,N,Tg,9,71.25,A
+Beijing WC,2024,M,GE Chunyu,G,2,b-T-14-Ddr,N,b,1440,N,Y,N,Ddr,10,57.5,B
+Beijing WC,2024,M,LOVELOCK Zephyr,R,1,b-16-Tg,N,b,1600,N,N,N,Tg,8,65.5,A
+Beijing WC,2024,M,LOVELOCK Zephyr,R,2,x-b-16,Y,b,1600,N,N,N,,8.5,15.5,B
+Beijing WC,2024,M,LOVELOCK Zephyr,R,3,x-b-16-St,Y,b,1600,N,N,N,St,8.5,62.5,B
+Beijing WC,2024,M,JUKOLA Ville,R,1,b-T-14-Me,N,b,1440,N,Y,N,Me,10,55.5,A
+Beijing WC,2024,M,JUKOLA Ville,R,2,x-b-14-Ng,Y,b,1440,N,N,N,Ng,8.5,64.5,B
+Beijing WC,2024,M,JUKOLA Ville,R,3,x-b-16-Ng,Y,b,1600,N,N,N,Ng,8.5,71.75,B
+Beijing WC,2024,M,PARKINSON Jesse,R,1,b-18-Me,N,b,1800,N,N,N,Me,9,36.25,A
+Beijing WC,2024,M,PARKINSON Jesse,R,2,b-14-Me,N,b,1440,N,N,N,Me,8,57.75,A
+Beijing WC,2024,M,PARKINSON Jesse,R,3,f-T-14-Tdr,N,f,1440,N,Y,N,Tdr,10,64.75,B
+Beijing WC,2024,M,GUETL Leon,R,1,x-b-14-Wed,Y,b,1440,N,N,N,Wed,8.5,68.0,A
+Beijing WC,2024,M,GUETL Leon,R,2,b-12-Me,N,b,1260,N,N,N,Me,7,53.25,B
+Beijing WC,2024,M,SALAC Kristian,R,1,f-D-14-Tg,N,f,1440,Y,N,N,Tg,9.5,13.25,A
+Beijing WC,2024,M,SALAC Kristian,R,2,f-D-14-Tg,N,f,1440,Y,N,N,Tg,9.5,50.5,A
+Beijing WC,2024,M,SALAC Kristian,R,3,b-T-16-Wed,N,b,1600,N,Y,N,Wed,10,69.5,B
+Beijing WC,2024,M,MEKINC Naj,G,1,b-16-Ddr,N,b,1600,N,N,N,Ddr,8,65.25,A
+Beijing WC,2024,M,MEKINC Naj,G,2,f-D-12-Wed,N,f,1260,Y,N,N,Wed,8.5,54.0,B
+Beijing WC,2024,M,SCHUETZ Nicolas,G,1,f-14-I,N,f,1440,N,N,N,I,8,53.25,A
+Beijing WC,2024,M,SCHUETZ Nicolas,G,2,b-14-Me,N,b,1440,N,N,N,Me,8,63.25,B
+Beijing WC,2024,M,JAROS Samuel,G,1,Cab-14-St,Y,Cab,1440,N,N,N,St,8.5,48.25,A
+Beijing WC,2024,M,JAROS Samuel,G,2,f-14-Ste,N,f,1440,N,N,N,Ste,8,66.75,B
+Beijing WC,2024,M,BOUCHARD Eli,G,1,T-Mo,N,f,,N,Y,N,,,25.75,A
+Beijing WC,2024,M,BOUCHARD Eli,G,2,b-18-Ng,N,b,1800,N,N,N,Ng,9,85.75,B
+Beijing WC,2024,M,MENZIES Dane,G,1,b-18-Me,N,b,1800,N,N,N,Me,9,86.0,A
+Beijing WC,2024,M,MENZIES Dane,G,2,f-T-18-Tg,N,f,1800,N,Y,N,Tg,10,23.25,B
+Beijing WC,2024,M,FARRELL Lyon,R,1,b-18-Ro,N,b,1800,N,N,N,Ro,9,89.5,A
+Beijing WC,2024,M,FARRELL Lyon,R,2,f-18-Tg,N,f,1800,N,N,N,Tg,9,19.5,B
+Beijing WC,2024,M,LEE Chaeun,R,1,b-18-I,N,b,1800,N,N,N,I,9,21.75,A
+Beijing WC,2024,M,LEE Chaeun,R,2,b-18-Ti,N,b,1800,N,N,N,Ti,9,76.25,A
+Beijing WC,2024,M,LEE Chaeun,R,3,f-Q-18-Wed,N,f,1800,N,N,N,Wed,9,31.0,B
+Beijing WC,2024,M,LIVIERO Nicola,R,1,b-14-Tg,N,b,1440,N,N,N,Tg,8,66.75,A
+Beijing WC,2024,M,LIVIERO Nicola,R,2,x-b-16-St-to-Tg,Y,b,1600,N,N,N,Tg,8.5,36.0,B
+Beijing WC,2024,M,MARTIN Oliver,R,1,b-T-18-Wed-to-I,N,b,1800,N,Y,N,I,10,72.25,A
+Beijing WC,2024,M,MARTIN Oliver,R,2,f-T-18-Wed,N,f,1800,N,Y,N,Wed,10,27.25,B
+Beijing WC,2024,M,MARTIN Oliver,R,3,f-T-18-Wed,N,f,1800,N,Y,N,Wed,10,30.0,B
+Beijing WC,2024,M,VELDEN van der Niek,R,1,Cab-18-Wed,Y,Cab,1800,N,N,N,Wed,9.5,20.25,A
+Beijing WC,2024,M,VELDEN van der Niek,R,3,x-b-T-16-Tg,Y,b,1600,N,Y,N,Tg,10,80.25,B
+Beijing WC,2024,M,MAZET BROWN Txema,G,1,Cab-18-I,Y,Cab,1800,N,N,N,I,9.5,22.25,A
+Beijing WC,2024,M,MAZET BROWN Txema,G,3,f-D-14-Wed,N,f,1440,Y,N,N,Wed,9.5,65.5,B
+Beijing WC,2024,M,JARVILEHTO Kalle,R,1,x-b-D-16-Ng,Y,b,1600,Y,N,N,Ng,10.0,15.75,A
+Beijing WC,2024,M,JARVILEHTO Kalle,R,2,b-D-16-Tg,N,b,1600,Y,N,N,Tg,9.5,15.0,B
+Beijing WC,2024,M,JARVILEHTO Kalle,R,3,b-D-16-Tg,N,b,1600,Y,N,N,Tg,9.5,70.75,B
+Beijing WC,2024,M,ARAGON SALGUERO Jose,G,1,b-T-16-I,N,b,1600,N,Y,N,I,10,70.25,A
+Beijing WC,2024,M,ARAGON SALGUERO Jose,G,2,x-b-T-14-Wed,Y,b,1440,N,Y,N,Wed,10,12.5,B
+Beijing WC,2024,M,MINAMIYA Hanato,R,1,b-16-Me,N,b,1600,N,N,N,Me,8,12.5,A
+Beijing WC,2024,M,MINAMIYA Hanato,R,2,b-18-Me,N,b,1800,N,N,N,Me,9,20.25,A
+Beijing WC,2024,M,MINAMIYA Hanato,R,3,b-18-Me,N,b,1800,N,N,N,Me,9,77.0,A
+Beijing WC,2024,M,WROBEL Evan,G,1,Cab-T-16-Go,Y,Cab,1600,N,Y,N,Go,10,18.0,A
+Beijing WC,2024,M,WROBEL Evan,G,3,Cab-T-14-Go,Y,Cab,1440,N,Y,N,Go,10,69.25,A
+Beijing WC,2024,M,BOSCH Anthon,R,1,b-14-Me,N,b,1440,N,N,N,Me,8,56.0,A
+Beijing WC,2024,M,BOSCH Anthon,R,2,f-12-Wed,N,f,1260,N,N,N,Wed,7,6.25,B
+Beijing WC,2024,M,BOSCH Anthon,R,3,f-12-Wed,N,f,1260,N,N,N,Wed,7,9.5,B
+Beijing WC,2024,M,JOHNSON Liam,R,1,b-16-Me,N,b,1600,N,N,N,Me,8,18.0,A
+Beijing WC,2024,M,JOHNSON Liam,R,2,b-16-Me,N,b,1600,N,N,N,Me,8,27.25,A
+Beijing WC,2024,M,JOHNSON Liam,R,3,f-7-Tg,N,f,700,N,N,N,Tg,4,34.25,B
+Beijing WC,2024,M,TOBITA Ruki,R,1,b-18-St,N,b,1800,N,N,N,St,9,23.25,A
+Beijing WC,2024,M,TOBITA Ruki,R,2,b-18-St,N,b,1800,N,N,N,St,9,30.0,A
+Beijing WC,2024,M,TOBITA Ruki,R,3,f-18-Me,N,f,1800,N,N,N,Me,9,30.0,B
+Beijing WC,2024,M,KOENEN Fynn,R,1,f-14-I,N,f,1440,N,N,N,I,8,49.25,A
+Beijing WC,2024,M,KOENEN Fynn,R,2,b-12-Me,N,b,1260,N,N,N,Me,7,8.0,B
+Beijing WC,2024,M,KLEVELAND Marcus,G,1,No-f-D-Td-14-I,N,f,1440,Y,N,N,I,9.5,24.0,A
+Beijing WC,2024,M,KLEVELAND Marcus,G,3,b-18-Wed,N,b,1800,N,N,N,Wed,9,27.25,B
+Beijing WC,2024,M,HUBER Niklas,R,1,x-b-12-Me-to-Tg,Y,b,1260,N,N,N,Tg,7.5,11.75,A
+Beijing WC,2024,M,HUBER Niklas,R,2,x-b-12-Me-to-Tg,Y,b,1260,N,N,N,Tg,7.5,15.25,A
+Beijing WC,2024,M,HUBER Niklas,R,3,b-T-14-Wed,N,b,1440,N,Y,N,Wed,10,35.0,B
+Beijing WC,2024,M,DEPRIEST Brooklyn,R,1,b-14-Me,N,b,1440,N,N,N,Me,8,11.25,A
+Beijing WC,2024,M,DEPRIEST Brooklyn,R,2,b-16-Me,N,b,1600,N,N,N,Me,8,14.5,A
+Beijing WC,2024,M,DEPRIEST Brooklyn,R,3,x-b-5-J,Y,b,500,N,N,N,J,3.5,32.75,B
+Beijing WC,2024,M,BRCIC Dante,R,1,x-b-16-St,Y,b,1600,N,N,N,St,8.5,16.5,A
+Beijing WC,2024,M,BRCIC Dante,R,3,b-3,N,b,300,N,N,N,,2,13.5,B
+Beijing WC,2024,M,BULLOCK-WOMBLE Fynn,R,1,b-18-Ng,N,b,1800,N,N,N,Ng,9,24.0,A
+Beijing WC,2024,M,FRIJNS Joewen,R,1,f-12-I,N,f,1260,N,N,N,I,7,7.75,A
+Beijing WC,2024,M,FRIJNS Joewen,R,2,f-14-Wed,N,f,1440,N,N,N,Wed,8,15.75,A
+Beijing WC,2024,M,FRIJNS Joewen,R,3,b-T-14-Wed,N,b,1440,N,Y,N,Wed,10,7.0,B
+Beijing WC,2024,M,LEE Dongheon,R,1,b-18-Tg,N,b,1800,N,N,N,Tg,9,22.0,A
+Beijing WC,2025,M,SU Yiming,G,1,b-19-Ng,N,b,1980,N,N,N,Ng,10,89.0,A
+Beijing WC,2025,M,SU Yiming,G,2,x-b-19-Me,Y,b,1980,N,N,N,Me,10,88.5,B
+Beijing WC,2025,M,SU Yiming,G,3,x-b-19-Me,Y,b,1980,N,N,N,Me,10,92.0,B
+Beijing WC,2025,M,KIMURA Kira,R,1,b-19-Me,N,b,1980,N,N,N,Me,10,87.0,A
+Beijing WC,2025,M,KIMURA Kira,R,2,x-b-Q-18-Mu,Y,b,1800,N,N,N,Mu,9.5,88.0,B
+Beijing WC,2025,M,KIMURA Kira,R,3,x-b-19-Ddr,Y,b,1980,N,N,N,Ddr,10,91.25,B
+Beijing WC,2025,M,RINNEKANGAS Rene,R,1,NB-b-Rd-14-Tg,N,f,1440,N,N,Y,Tg,8.5,95.0,A
+Beijing WC,2025,M,RINNEKANGAS Rene,R,2,x-b-D-Rd-12-St,Y,b,1260,Y,N,Y,St,9.5,66.25,B
+Beijing WC,2025,M,RINNEKANGAS Rene,R,3,x-b-D-Rd-12-St,Y,b,1260,Y,N,Y,St,9.5,81.25,B
+Beijing WC,2025,M,MIYAMURA Yuto,R,1,b-19-Me,N,b,1980,N,N,N,Me,10,89.5,A
+Beijing WC,2025,M,MIYAMURA Yuto,R,2,f-T-18-I,N,f,1800,N,Y,N,I,10,83.25,B
+Beijing WC,2025,M,MENZIES Dane,G,1,f-T-18-Tg,N,f,1800,N,Y,N,Tg,10,86.75,A
+Beijing WC,2025,M,MENZIES Dane,G,2,b-18-Me,N,b,1800,N,N,N,Me,9,77.5,B
+Beijing WC,2025,M,MENZIES Dane,G,3,b-19-Me,N,b,1980,N,N,N,Me,10,83.75,B
+Beijing WC,2025,M,MATTEOLI Ian,R,1,x-b-19-Me,Y,b,1980,N,N,N,Me,10,18.75,A
+Beijing WC,2025,M,MATTEOLI Ian,R,2,x-b-19-Me,Y,b,1980,N,N,N,Me,10,90.75,A
+Beijing WC,2025,M,MATTEOLI Ian,R,3,b-18-Me,N,b,1800,N,N,N,Me,9,78.5,B
+Beijing WC,2025,M,MAZET BROWN Txema,G,1,Cab-NB-D-10-hb-Tdr,Y,Cab,1080,N,N,N,Tdr,6.5,82.25,A
+Beijing WC,2025,M,MAZET BROWN Txema,G,2,f-T-18-Mu,N,f,1800,N,Y,N,Mu,10,14.25,B
+Beijing WC,2025,M,MAZET BROWN Txema,G,3,f-T-18-Mu,N,f,1800,N,Y,N,Mu,10,20.25,B
+Beijing WC,2025,M,GE Chunyu,G,1,f-oT-T-14-Mu,N,f,1440,N,Y,N,Mu,10,83.0,A
+Beijing WC,2025,M,GE Chunyu,G,2,b-18-Mu,N,b,1800,N,N,N,Mu,9,13.0,B
+Beijing WC,2025,M,GE Chunyu,G,3,b-19-Mu,N,b,1980,N,N,N,Mu,10,11.0,B
+Beijing WC,2025,M,ZHAO Yingxu,G,1,f-16-Ti,N,f,1600,N,N,N,Ti,8,10.75,A
+Beijing WC,2025,M,ZHAO Yingxu,G,3,Cab-18-I-to-Ng,Y,Cab,1800,N,N,N,Ng,9.5,74.75,B
+Beijing WC,2025,M,FARRELL Lyon,R,1,f-D-18-Tg,N,f,1800,Y,N,N,Tg,10,16.5,A
+Beijing WC,2025,M,FARRELL Lyon,R,2,f-D-18-Tg,N,f,1800,Y,N,N,Tg,10,19.5,A
+Beijing WC,2025,M,FARRELL Lyon,R,3,b-18-Ro,N,b,1800,N,N,N,Ro,9,14.75,B
+Beijing WC,2025,M,MILLAUER Clemens,R,1,b-18-Ng,N,b,1800,N,N,N,Ng,9,75.5,A
+Beijing WC,2025,M,MILLAUER Clemens,R,2,x-b-16-Ng,Y,b,1600,N,N,N,Ng,8.5,66.75,B
+Beijing WC,2025,M,LIU Haoyu,R,1,b-T-14-Ddr,N,b,1440,N,Y,N,Ddr,10,65.25,A
+Beijing WC,2025,M,LIU Haoyu,R,2,x-b-D-16-Ng,Y,b,1600,Y,N,N,Ng,10.0,69.5,B
+Beijing WC,2025,M,LIU Haoyu,R,3,b-T-16-Ddr,N,b,1600,N,Y,N,Ddr,10,70.5,A
+Beijing WC,2025,M,GUSELI Valentino,R,1,x-b-14-Tg,Y,b,1440,N,N,N,Tg,8.5,15.25,A
+Beijing WC,2025,M,GUSELI Valentino,R,2,x-b-16-d-Tg,Y,b,1600,N,N,N,Tg,8.5,76.0,A
+Beijing WC,2025,M,GUSELI Valentino,R,3,b-14-I,N,b,1440,N,N,N,I,8,62.5,B
+Beijing WC,2025,M,VALAX Enzo,R,1,b-T-18-I,N,b,1800,N,Y,N,I,10,74.0,A
+Beijing WC,2025,M,VALAX Enzo,R,2,x-b-5-St,Y,b,500,N,N,N,St,3.5,24.0,B
+Beijing WC,2025,M,VALAX Enzo,R,3,x-b-T-16-Mu,Y,b,1600,N,Y,N,Mu,10,63.25,B
+Beijing WC,2025,M,VELDEN van der Niek,R,1,x-b-T-16-Tg,Y,b,1600,N,Y,N,Tg,10,79.25,A
+Beijing WC,2025,M,VELDEN van der Niek,R,2,Cab-D-12-I,Y,Cab,1260,Y,N,N,I,9.0,46.0,B
+Beijing WC,2025,M,VELDEN van der Niek,R,3,Cab-D-14-I,Y,Cab,1440,Y,N,N,I,10.0,50.0,B
+Beijing WC,2025,M,VERMAAT Sam,R,1,Cab-D-12-Mu,Y,Cab,1260,Y,N,N,Mu,9.0,55.75,A
+Beijing WC,2025,M,VERMAAT Sam,R,2,f-D-16-Tg,N,f,1600,Y,N,N,Tg,9.5,72.5,B
+Beijing WC,2025,M,HUBER Niklas,R,1,f-D-14-Mu-to-Tg,N,f,1440,Y,N,N,Tg,9.5,14.75,A
+Beijing WC,2025,M,HUBER Niklas,R,2,f-D-14-Mu-to-Tg,N,f,1440,Y,N,N,Tg,9.5,56.5,A
+Beijing WC,2025,M,HUBER Niklas,R,3,b-T-16-Mu,N,b,1600,N,Y,N,Mu,10,71.0,B
+Beijing WC,2025,M,KUNITAKE Hiroaki,G,1,b-14-Ng-to-Tg,N,b,1440,N,N,N,Tg,8,61.5,A
+Beijing WC,2025,M,KUNITAKE Hiroaki,G,2,x-b-14-Mu-to-Me,Y,b,1440,N,N,N,Me,8.5,64.25,B
+Beijing WC,2025,M,OGIWARA Hiroto,R,1,b-T-18-I,N,b,1800,N,Y,N,I,10,28.5,A
+Beijing WC,2025,M,OGIWARA Hiroto,R,2,f-T-18-Mu,N,f,1800,N,Y,N,Mu,10,87.25,B
+Beijing WC,2025,M,OGIWARA Hiroto,R,3,b-T-18-I,N,b,1800,N,Y,N,I,10,36.25,A
+Beijing WC,2025,M,KIRKHUS Oyvind,R,1,x-b-D-Rd-12-Ng,Y,b,1260,Y,N,Y,Ng,9.5,80.5,A
+Beijing WC,2025,M,KIRKHUS Oyvind,R,2,b-18-Me,N,b,1800,N,N,N,Me,9,36.25,B
+Beijing WC,2025,M,YANEZ Alvaro,G,1,b-14-Me,N,b,1440,N,N,N,Me,8,13.0,A
+Beijing WC,2025,M,YANEZ Alvaro,G,2,b-14-Me,N,b,1440,N,N,N,Me,8,62.25,A
+Beijing WC,2025,M,YANEZ Alvaro,G,3,f-10-Mu,N,f,1080,N,N,N,Mu,6,49.75,B
+Beijing WC,2025,M,FRAMARIN Loris,R,1,x-b-16-J,Y,b,1600,N,N,N,J,8.5,78.75,A
+Beijing WC,2025,M,FRAMARIN Loris,R,2,b-D-16-Ng,N,b,1600,Y,N,N,Ng,9.5,14.75,B
+Beijing WC,2025,M,FRAMARIN Loris,R,3,b-D-16-Ng,N,b,1600,Y,N,N,Ng,9.5,31.5,B
+Beijing WC,2025,M,DEPRIEST Brooklyn,R,1,x-b-9,Y,b,900,N,N,N,,5.5,35.0,A
+Beijing WC,2025,M,DEPRIEST Brooklyn,R,2,x-b-T-19-Mu,Y,b,1980,N,Y,N,Mu,10,89.75,A
+Beijing WC,2025,M,DEPRIEST Brooklyn,R,3,b-18-Mu,N,b,1800,N,N,N,Mu,9,19.25,B
+Beijing WC,2025,M,ROBERTSON-HAHN Joshua,R,1,f-T-18-Tg,N,f,1800,N,Y,N,Tg,10,82.25,A
+Beijing WC,2025,M,ROBERTSON-HAHN Joshua,R,2,b-18-I,N,b,1800,N,N,N,I,9,16.5,B
+Beijing WC,2025,M,HRONES Jakub,G,1,Cab-18-Ro,Y,Cab,1800,N,N,N,Ro,9.5,89.75,A
+Beijing WC,2025,M,HRONES Jakub,G,2,f-14-Mu,N,f,1440,N,N,N,Mu,8,11.25,B
+Beijing WC,2025,M,MEKINC Naj,G,1,b-D-10-Ddr,N,b,1080,N,N,N,Ddr,6,46.75,A
+Beijing WC,2025,M,MEKINC Naj,G,2,f-10-I,N,f,1080,N,N,N,I,6,38.25,B
+Beijing WC,2025,M,MEKINC Naj,G,3,b-T-14-Ddr,N,b,1440,N,Y,N,Ddr,10,65.75,A
+Beijing WC,2025,M,McMORRIS Mark,R,1,x-b-16-Me,Y,b,1600,N,N,N,Me,8.5,15.0,A
+Beijing WC,2025,M,McMORRIS Mark,R,2,x-b-T-16-Me,Y,b,1600,N,Y,N,Me,10,68.5,A
+Beijing WC,2025,M,McMORRIS Mark,R,3,b-18-Me,N,b,1800,N,N,N,Me,9,31.5,B
+Beijing WC,2025,M,DHAWORNVEJ Caleb,R,1,b-T-14-Mu,N,b,1440,N,Y,N,Mu,10,16.75,A
+Beijing WC,2025,M,DHAWORNVEJ Caleb,R,2,b-T-14-Mu,N,b,1440,N,Y,N,Mu,10,51.0,A
+Beijing WC,2025,M,DHAWORNVEJ Caleb,R,3,f-T-18-Tg,N,f,1800,N,Y,N,Tg,10,45.0,B
+Beijing WC,2025,M,JOBIN Francis,R,1,x-b-D-Rd-12-Ng,Y,b,1260,Y,N,Y,Ng,9.5,57.5,A
+Beijing WC,2025,M,JOBIN Francis,R,2,b-D-Rd-12-I,N,b,1260,Y,N,Y,I,9.0,38.25,B
+Beijing WC,2025,M,JAMIESON Rocco,R,1,b-18-Me,N,b,1800,N,N,N,Me,9,74.25,A
+Beijing WC,2025,M,JAMIESON Rocco,R,2,f-18-oT-Ng,N,f,1800,N,Y,N,Ng,10,14.25,B
+Beijing WC,2025,M,JAMIESON Rocco,R,3,f-18-oT-Ng,N,f,1800,N,Y,N,Ng,10,20.25,B
+Beijing WC,2025,M,YANG Wenlong,G,1,b-T-18-Mu,N,b,1800,N,Y,N,Mu,10,20.0,A
+Beijing WC,2025,M,YANG Wenlong,G,2,b-T-18-Mu,N,b,1800,N,Y,N,Mu,10,73.5,A
+Beijing WC,2025,M,YANG Wenlong,G,3,f-D-18-Mu-to-Tg,N,f,1800,Y,N,N,Tg,10,18.0,B
+Beijing WC,2025,M,LIVIERO Nicola,R,1,x-b-D-Rd-12-Ng,Y,b,1260,Y,N,Y,Ng,9.5,71.25,A
+Beijing WC,2025,M,LIVIERO Nicola,R,2,b-D-14-Tg,N,b,1440,Y,N,N,Tg,9.5,19.5,B
+Beijing WC,2025,M,RICE Brian,G,1,b-D-14-Tg,N,b,1440,Y,N,N,Tg,9.5,68.75,A
+Beijing WC,2025,M,RICE Brian,G,2,x-b-T-16-Mu,Y,b,1600,N,Y,N,Mu,10,15.75,B
+Beijing WC,2025,M,RICE Brian,G,3,x-b-T-16-Mu,Y,b,1600,N,Y,N,Mu,10,20.0,B
+Beijing WC,2025,M,ALMQVIST Gabriel,R,1,x-fF,Y,f,,N,N,N,,,5.25,A
+Beijing WC,2025,M,ALMQVIST Gabriel,R,2,x-fF-J,Y,f,,N,N,N,J,,42.75,A
+Beijing WC,2025,M,ALMQVIST Gabriel,R,3,bF-Md-f-1,N,f,180,N,N,N,,1,39.75,B
+Beijing WC,2025,M,SALAC Kristian,R,1,b-T-16-Mu,N,b,1600,N,Y,N,Mu,10,15.75,A
+Beijing WC,2025,M,SALAC Kristian,R,2,b-T-16-Mu,N,b,1600,N,Y,N,Mu,10,66.5,A
+Beijing WC,2025,M,WROBEL Evan,G,1,b-T-16-Mu,N,b,1600,N,Y,N,Mu,10,12.75,A
+Beijing WC,2025,M,WROBEL Evan,G,2,b-T-16-Mu,N,b,1600,N,Y,N,Mu,10,68.0,A
+Beijing WC,2025,M,KIMATA Ryoma,R,1,f-18-Tg,N,f,1800,N,N,N,Tg,9,16.0,A
+Beijing WC,2025,M,KIMATA Ryoma,R,2,b-16-Me,N,b,1600,N,N,N,Me,8,62.25,B
+Beijing WC,2025,M,KIMATA Ryoma,R,3,f-18-D-Tg,N,f,1800,Y,N,N,Tg,10,17.25,A
+Beijing WC,2025,M,LEE Dongheon,R,1,b-D-18-Tg,N,b,1800,Y,N,N,Tg,10,23.75,A
+Beijing WC,2025,M,LEE Dongheon,R,3,b-D-18-Tg,N,b,1800,Y,N,N,Tg,10,79.0,A
+Beijing WC,2025,M,VICKTOR Noah,G,1,f-14-Mu,N,f,1440,N,N,N,Mu,8,62.0,A
+Beijing WC,2025,M,VICKTOR Noah,G,2,b-18-Me,N,b,1800,N,N,N,Me,9,16.5,B
+Beijing WC,2025,M,PARKINSON Jesse,R,1,f-D-14-Tdr,N,f,1440,N,N,N,Tdr,8,13.5,A
+Beijing WC,2025,M,PARKINSON Jesse,R,3,b-T-14-Mu,N,b,1440,N,Y,N,Mu,10,64.0,B
+Beijing WC,2025,M,BREU Moritz,G,1,b-14-Mu,N,b,1440,N,N,N,Mu,8,19.75,A
+Beijing WC,2025,M,BREU Moritz,G,2,b-T-14-Mu,N,b,1440,N,Y,N,Mu,10,63.75,A
+Beijing WC,2025,M,LOTORTO Alex,G,1,b-18-Mel,N,b,1800,N,N,N,Me,9,9.0,A
+Beijing WC,2025,M,LOTORTO Alex,G,2,b-18-Me,N,b,1800,N,N,N,Me,9,16.5,A
+Beijing WC,2025,M,LOTORTO Alex,G,3,x-b-12-Mu,Y,b,1260,N,N,N,Mu,7.5,56.0,B
+Beijing WC,2025,M,BRCIC Dante,R,1,x-b-T-12-Mu,Y,b,1260,N,Y,N,Mu,9.5,16.25,A
+Beijing WC,2025,M,BRCIC Dante,R,2,x-b-D-12-Mu,Y,b,1260,Y,N,N,Mu,9.0,46.5,A
+Beijing WC,2025,M,BRCIC Dante,R,3,b-T-14-I,N,b,1440,N,Y,N,I,10,20.0,B
+Beijing WC,2025,M,KLEVELAND Marcus,G,1,NB-b-14-I,N,f,1440,N,N,N,I,8,17.25,A
+Beijing WC,2025,M,KLEVELAND Marcus,G,3,f-D-C-10-oT-Ng,N,f,1080,Y,Y,N,Ng,9.5,43.0,B
+Beijing WC,2025,M,BOUCHARD Eli,G,1,t-Mo,N,f,,N,N,N,,,22.5,A
+Beijing WC,2025,M,BOUCHARD Eli,G,3,McB,N,f,,N,N,N,,,32.75,B
+Beijing WC,2025,M,ALLEMAND Romain,R,1,f-18-Ti,N,f,1800,N,N,N,Ti,9,39.75,A
+Beijing WC,2025,M,PIZARRO Pedro,R,1,x-b-T-16-Mu,Y,b,1600,N,Y,N,Mu,10,42.75,A
+Beijing WC,2025,M,PIZARRO Pedro,R,2,x-b-D-12-St,Y,b,1260,Y,N,N,St,9.0,42.5,A
+Beijing WC,2025,M,FEDOROWYCZ Lys,R,1,b-12-I,N,b,1260,N,N,N,I,7,9.0,A
+Beijing WC,2025,M,FEDOROWYCZ Lys,R,2,b-T-14-I,N,b,1440,N,Y,N,I,10,14.5,A
+Beijing WC,2025,M,FEDOROWYCZ Lys,R,3,x-b-D-Rd-12-I,Y,b,1260,Y,N,Y,I,9.5,17.5,B
+Beijing WC,2025,M,ROISLAND Mons,R,1,x-b-D-Rd-12-I,Y,b,1260,Y,N,Y,I,9.5,18.75,A
+Beijing WC,2025,M,ROISLAND Mons,R,3,x-b-D-Rd-12-I,Y,b,1260,Y,N,Y,I,9.5,31.75,A
+Beijing WC,2025,M,JOZSA Martin,G,1,x-D-bF-St-x-b-1,Y,b,180,Y,N,N,St,3.0,11.25,A
+Beijing WC,2025,M,JOZSA Martin,G,2,b-10-Me,N,b,1080,N,N,N,Me,6,6.75,B
+Beijing WC,2025,M,JOZSA Martin,G,3,Cab-bF-St,Y,Cab,,N,N,N,St,,23.75,A
+Beijing WC,2025,M,SCHWAB Alex,G,1,b-D-10-Me,N,b,1080,Y,N,N,Me,7.5,18.75,A
+Beijing WC,2025,M,SCHWAB Alex,G,2,b-D-10-Me,N,b,1080,Y,N,N,Me,7.5,9.25,A
+Beijing WC,2025,M,SCHWAB Alex,G,3,f-10-St,N,f,1080,N,N,N,St,6,9.5,B
+Beijing WC,2025,M,JIANG Xinjie,R,1,Cab-Q-16-Mu,Y,Cab,1600,N,N,N,Mu,8.5,25.5,A
+Beijing WC,2025,M,JIANG Xinjie,R,2,Cab-T-16-I,Y,Cab,1600,N,Y,N,I,10,27.5,A
+Beijing WC,2025,M,KIMURA Yuto,R,1,f-18-Ti,N,f,1800,N,N,N,Ti,9,16.5,A
+Beijing WC,2025,M,KIMURA Yuto,R,2,f-18-Bd,N,f,1800,N,N,N,Bd,9,23.25,A
+Beijing WC,2025,M,GJERDALEN Bendik,R,1,Cab-T-16-I,Y,Cab,1600,N,Y,N,I,10,18.75,A
+Beijing WC,2025,M,GJERDALEN Bendik,R,2,Cab-T-16-I,Y,Cab,1600,N,Y,N,I,10,22.75,A
+Beijing WC,2025,M,FRAMARIN Leo,R,1,f-T-18-I,N,f,1800,N,Y,N,I,10,21.25,A
+Beijing WC,2025,M,COLLINS Tiarn,G,1,x-b-16-Mu,Y,b,1600,N,N,N,Mu,8.5,15.25,A
+Chur WC,2024,M,HASEGAWA Taiga,R,1,Cab-18-Wed,Y,Cab,1800,N,N,N,Wed,9.5,87.5,A
+Chur WC,2024,M,HASEGAWA Taiga,R,2,f-18-I,N,f,1800,N,N,N,I,9,43.0,B
+Chur WC,2024,M,HASEGAWA Taiga,R,3,f-18-I,N,f,1800,N,N,N,I,9,89.75,B
+Chur WC,2024,M,JAMIESON Rocco,R,1,x-b-16-Jp,Y,b,1600,N,N,N,Jp,8.5,83.0,A
+Chur WC,2024,M,JAMIESON Rocco,R,2,b-Rl-PR-x-b-Rd,N,b,,N,N,Y,,,80.5,B
+Chur WC,2024,M,JAMIESON Rocco,R,3,f-D-9-Bb,N,f,900,Y,N,N,Bb,6.5,60.75,C
+Chur WC,2024,M,ALLEMAND Romain,R,1,f-18-Bd,N,f,1800,N,N,N,Bd,9,91.5,A
+Chur WC,2024,M,ALLEMAND Romain,R,2,b-DC-14-Tg,N,b,1440,Y,N,N,Tg,9.5,66.5,B
+Chur WC,2024,M,ALLEMAND Romain,R,3,b-18-Tg,N,b,1800,N,N,N,Tg,9,36.0,B
+Chur WC,2024,M,MATTEOLI Ian,R,1,f-18-Wed-to-Tg,N,f,1800,N,N,N,Tg,9,83.25,A
+Chur WC,2024,M,MATTEOLI Ian,R,2,Cab-14-Wed-to-Tg,Y,Cab,1440,N,N,N,Tg,8.5,62.25,B
+Chur WC,2024,M,MATTEOLI Ian,R,3,Cab-18-I-to-Ng,Y,Cab,1800,N,N,N,Ng,9.5,25.25,B
+Chur WC,2024,M,HRONES Jakub,G,1,Cab-D-14-Ng,Y,Cab,1440,Y,N,N,Ng,10.0,67.75,A
+Chur WC,2024,M,HRONES Jakub,G,2,f-DC-12-Wed,N,f,1260,Y,N,N,Wed,8.5,14.75,B
+Chur WC,2024,M,HRONES Jakub,G,3,f-D-14-Wed,N,f,1440,Y,N,N,Wed,9.5,64.5,B
+Chur WC,2024,M,OGIWARA Hiroto,R,1,x-b-19-Me,Y,b,1980,N,N,N,Me,10,20.0,A
+Chur WC,2024,M,OGIWARA Hiroto,R,2,x-b-19-Me,Y,b,1980,N,N,N,Me,10,19.0,A
+Chur WC,2024,M,OGIWARA Hiroto,R,3,b-18-Me,N,b,1800,N,N,N,Me,9,89.25,B
+Chur WC,2024,M,LEE Dongheon,R,1,b-DC-18-Tg,N,b,1800,Y,N,N,Tg,10,17.25,A
+Chur WC,2024,M,LEE Dongheon,R,2,b-DC-18-Tg,N,b,1800,Y,N,N,Tg,10,89.5,A
+Chur WC,2024,M,LEE Dongheon,R,3,f-D-16-Tg,N,f,1600,Y,N,N,Tg,9.5,18.5,B
+Chur WC,2024,M,KLEVELAND Marcus,G,1,No-D-Td-10-I,N,f,1080,Y,N,N,I,7.5,76.5,A
+Chur WC,2024,M,KLEVELAND Marcus,G,2,NB-b-18-I,N,f,1800,N,N,N,I,9,14.25,B
+Chur WC,2024,M,KLEVELAND Marcus,G,3,NB-b-18-I,N,f,1800,N,N,N,I,9,17.0,B
+Chur WC,2024,M,FARRELL Lyon,R,1,b-18-Ro,N,b,1800,N,N,N,Ro,9,24.0,A
+Chur WC,2024,M,FARRELL Lyon,R,2,f-14-D-Tg,N,f,1440,Y,N,N,Tg,9.5,67.0,B
+Chur WC,2024,M,FARRELL Lyon,R,3,b-18-Ro,N,b,1800,N,N,N,Ro,9,19.75,A
+Chur WC,2024,M,JOBIN Francis,R,1,x-D-b-Rd-12-Ng,Y,b,1260,Y,N,Y,Ng,9.5,40.0,A
+Chur WC,2024,M,JOBIN Francis,R,2,x-b-D-Rd-12-Ng,Y,b,1260,Y,N,Y,Ng,9.5,18.75,A
+Chur WC,2024,M,JOBIN Francis,R,3,b-DC-10-I,N,b,1080,Y,N,N,I,7.5,12.25,B
+Chur WC,2024,M,HAMADA Kaito,G,1,x-D-Td12-Wed,Y,f,,Y,N,N,Wed,,83.25,A
+Chur WC,2024,M,HAMADA Kaito,G,2,f-Td-D-12-I,N,f,1260,Y,N,N,I,8.5,84.75,
+Chur WC,2024,M,MILLAUER Clemens,R,1,b-D-16-Ng,N,b,1600,Y,N,N,Ng,9.5,79.75,
+Chur WC,2024,M,YANG Wenlong,G,1,b-18-Jp,N,b,1800,N,N,N,Jp,9,19.0,
+Chur WC,2024,M,YANG Wenlong,G,2,b-T-18-Jp,N,b,1800,N,Y,N,Jp,10,76.75,
+Chur WC,2024,M,SPALDING Cameron,R,1,x-16-Tg,Y,f,1600,N,N,N,Tg,8.5,74.75,
+Chur WC,2024,M,CORNING Chris,G,1,b-10-Me,N,b,1080,N,N,N,Me,6,72.5,
+Chur WC,2024,M,VALAX Enzo,R,1,b-16-Tg,N,b,1600,N,N,N,Tg,8,71.75,
+Chur WC,2024,M,BOUCHARD Eli,G,1,b-D-14-Ro,N,b,1440,Y,N,N,Ro,9.5,71.5,
+Chur WC,2024,M,GUSELI Valentino,R,1,b-16-Ng-to-St,N,b,1600,N,N,N,St,8,70.25,
+Chur WC,2024,M,JARVILEHTO Kalle,R,1,b-D-16-Tg,N,b,1600,Y,N,N,Tg,9.5,67.75,
+Chur WC,2024,M,BRCIC Dante,R,1,b-TC-14-I,N,b,1440,N,Y,N,I,10,12.75,
+Chur WC,2024,M,BRCIC Dante,R,2,b-TC-14-I,N,b,1440,N,Y,N,I,10,66.25,
+Chur WC,2024,M,VICKTOR Noah,G,1,b-14-Me,N,b,1440,N,N,N,Me,8,13.75,
+Chur WC,2024,M,VICKTOR Noah,G,2,b-14-Me,N,b,1440,N,N,N,Me,8,65.25,
+Chur WC,2024,M,PIZARRO Pedro,R,1,f-DC-14-Me,N,f,1440,Y,N,N,Me,9.5,34.5,
+Chur WC,2024,M,PIZARRO Pedro,R,2,f-DC-14-Me,N,f,1440,Y,N,N,Me,9.5,64.5,
+Chur WC,2024,M,JAROS Samuel,G,1,f-12-RB,N,f,1260,N,N,N,RB,7,11.25,
+Chur WC,2024,M,JAROS Samuel,G,2,f-14-Ste,N,f,1440,N,N,N,Ste,8,64.5,
+Chur WC,2024,M,MEKINC Naj,G,1,b-T-14-Wed,N,b,1440,N,Y,N,Wed,10,64.0,
+Chur WC,2024,M,MIYAMURA Yuto,R,1,b-18-Me,N,b,1800,N,N,N,Me,9,19.25,
+Chur WC,2024,M,MIYAMURA Yuto,R,2,b-D-14-Me,N,b,1440,Y,N,N,Me,9.5,63.25,
+Chur WC,2024,M,MATHISEN William,G,1,b-TC-14-Wed,N,b,1440,N,Y,N,Wed,10,14.75,
+Chur WC,2024,M,MATHISEN William,G,2,b-TC-14-Wed,N,b,1440,N,Y,N,Wed,10,62.75,
+Chur WC,2024,M,MAZET BROWN Txema,G,1,b-14-Ng,N,b,1440,N,N,N,Ng,8,62.25,
+Chur WC,2024,M,LOTORTO Alex,G,1,b-TC-14-Wed,N,b,1440,N,Y,N,Wed,10,3.5,
+Chur WC,2024,M,LOTORTO Alex,G,2,b-TC-16-Wed,N,b,1600,N,Y,N,Wed,10,61.25,
+Chur WC,2024,M,ARAGON SALGUERO Jose,G,1,b-14-I,N,b,1440,N,N,N,I,8,60.25,
+Chur WC,2024,M,TOBITA Ruki,R,1,b-16-Me,N,b,1600,N,N,N,Me,8,58.5,
+Chur WC,2024,M,TOBITA Ruki,R,2,b-16-St,N,b,1600,N,N,N,St,8,59.0,
+Chur WC,2024,M,MILENKOVIC Matija,G,1,b-T-14-Me,N,b,1440,N,Y,N,Me,10,17.0,
+Chur WC,2024,M,MILENKOVIC Matija,G,2,b-TC-14-Me,N,b,1440,N,Y,N,Me,10,58.25,
+Chur WC,2024,M,BULLOCK-WOMBLE Fynn,R,1,b-16-Ng,N,b,1600,N,N,N,Ng,8,42.5,
+Chur WC,2024,M,BULLOCK-WOMBLE Fynn,R,2,b-16-Ng,N,b,1600,N,N,N,Ng,8,57.5,
+Chur WC,2024,M,KIRKHUS Oyvind,R,1,f-Rd-10-I,N,f,1080,N,N,Y,I,6.5,13.5,
+Chur WC,2024,M,KIRKHUS Oyvind,R,2,f-D-Rd-10-I,N,f,1080,Y,N,Y,I,8.0,54.25,
+Chur WC,2024,M,JOHNSON Liam,R,1,b-DC-12-Me,N,b,1260,Y,N,N,Me,8.5,7.75,
+Chur WC,2024,M,JOHNSON Liam,R,2,b-12-Me,N,b,1260,N,N,N,Me,7,47.5,
+Chur WC,2024,M,SCHUETZ Nicolas,G,1,f-14-I,N,f,1440,N,N,N,I,8,6.5,
+Chur WC,2024,M,SCHUETZ Nicolas,G,2,f-14-I,N,f,1440,N,N,N,I,8,45.5,
+Chur WC,2024,M,LIVIERO Nicola,R,1,b-16-Tg,N,b,1600,N,N,N,Tg,8,19.0,
+Chur WC,2024,M,LIVIERO Nicola,R,2,b-16-Tg,N,b,1600,N,N,N,Tg,8,40.75,
+Chur WC,2024,M,YANEZ Alvaro,G,1,b-12-Me,N,b,1260,N,N,N,Me,7,39.25,
+Chur WC,2024,M,HUBER Nicolas,G,1,b-18-Ng,N,b,1800,N,N,N,Ng,9,8.0,
+Chur WC,2024,M,HUBER Nicolas,G,2,b-18-Ng,N,b,1800,N,N,N,Ng,9,38.5,
+Chur WC,2024,M,BOLL Moritz,G,1,b-16-Tg,N,b,1600,N,N,N,Tg,8,33.5,
+Chur WC,2024,M,KIMATA Ryoma,R,1,b-16-Jp,N,b,1600,N,N,N,Jp,8,16.5,
+Chur WC,2024,M,KIMATA Ryoma,R,2,b-16-Jp,N,b,1600,N,N,N,Jp,8,23.25,
+Chur WC,2024,M,MARTIN Oliver,R,1,f-T-16,N,f,1600,N,Y,N,,10,5.75,
+Chur WC,2024,M,MARTIN Oliver,R,2,f-TC-18-Wed,N,f,1800,N,Y,N,Wed,10,21.25,
+Chur WC,2024,M,VELDEN van der Niek,R,1,x-b-T-16-Tg,Y,b,1600,N,Y,N,Tg,10,20.75,
+Chur WC,2024,M,VERMAAT Sam,R,1,Cab-T-16-I,Y,Cab,1600,N,Y,N,I,10,17.5,
+Chur WC,2024,M,DENDA Jeremy,G,1,Cab-T-16-I,Y,Cab,1600,N,Y,N,I,10,6.0,
+Chur WC,2024,M,DENDA Jeremy,G,2,Cab-D-14-I,Y,Cab,1440,Y,N,N,I,10.0,14.5,
+Chur WC,2024,M,BOSCH Anthon,R,1,b-14-Me,N,b,1440,N,N,N,Me,8,13.25,
+Chur WC,2024,M,CHIARADIO de la IGLESIA Federico,R,1,f-12-I,N,f,1260,N,N,N,I,7,7.5,
+Chur WC,2024,M,CHIARADIO de la IGLESIA Federico,R,2,f-14-I,N,f,1440,N,N,N,I,8,11.25,
+Klagenfurt WC,2025,M,HASEGAWA Taiga,R,1,Cab-18-Wed,Y,Cab,1800,N,N,N,Wed,9.5,89.75,A
+Klagenfurt WC,2025,M,HASEGAWA Taiga,R,2,f-18-I,N,f,1800,N,N,N,I,9,90.0,B
+Klagenfurt WC,2025,M,HASEGAWA Taiga,R,3,Cab-5-Me,Y,Cab,500,N,N,N,Me,3.5,42.0,A
+Klagenfurt WC,2025,M,MATTEOLI Ian,R,1,f-18-Wed-to-Tg,N,f,1800,N,N,N,Tg,9,87.5,A
+Klagenfurt WC,2025,M,MATTEOLI Ian,R,2,Cab-18-I-to-Ng,Y,Cab,1800,N,N,N,Ng,9.5,87.75,B
+Klagenfurt WC,2025,M,KIRKHUS Oyvind,R,1,x-b-D-Rd-12-Ng,Y,b,1260,Y,N,Y,Ng,9.5,92.0,A
+Klagenfurt WC,2025,M,KIRKHUS Oyvind,R,2,b-T-16-I,N,b,1600,N,Y,N,I,10,44.0,B
+Klagenfurt WC,2025,M,KIRKHUS Oyvind,R,3,b-T-16-I,N,b,1600,N,Y,N,I,10,80.0,B
+Klagenfurt WC,2025,M,HRONES Jakub,G,1,Cab-18-Ng,Y,Cab,1800,N,N,N,Ng,9.5,90.75,A
+Klagenfurt WC,2025,M,HRONES Jakub,G,2,f-12-I,N,f,1260,N,N,N,I,7,16.5,B
+Klagenfurt WC,2025,M,HRONES Jakub,G,3,f-14-I,N,f,1440,N,N,N,I,8,78.5,B
+Klagenfurt WC,2025,M,MILLAUER Clemens,R,1,x-b-16-Ng,Y,b,1600,N,N,N,Ng,8.5,79.0,A
+Klagenfurt WC,2025,M,MILLAUER Clemens,R,2,b-D-16-Ng,N,b,1600,Y,N,N,Ng,9.5,36.75,B
+Klagenfurt WC,2025,M,MILLAUER Clemens,R,3,b-D-16-Ng,N,b,1600,Y,N,N,Ng,9.5,81.75,B
+Klagenfurt WC,2025,M,KIMATA Ryoma,R,1,x-b-16-Me,Y,b,1600,N,N,N,Me,8.5,77.25,A
+Klagenfurt WC,2025,M,KIMATA Ryoma,R,2,b-16-Me,N,b,1600,N,N,N,Me,8,79.75,B
+Klagenfurt WC,2025,M,VOCKENSPERGER Leon,R,1,x-b-16-Wed,Y,b,1600,N,N,N,Wed,8.5,19.75,A
+Klagenfurt WC,2025,M,VOCKENSPERGER Leon,R,2,x-b-D-16-Wed,Y,b,1600,Y,N,N,Wed,10.0,75.5,A
+Klagenfurt WC,2025,M,VOCKENSPERGER Leon,R,3,b-T-14-Me,N,b,1440,N,Y,N,Me,10,76.5,B
+Klagenfurt WC,2025,M,FARRELL Lyon,R,1,b-18-Ro,N,b,1800,N,N,N,Ro,9,30.25,A
+Klagenfurt WC,2025,M,FARRELL Lyon,R,2,f-D-14-Wed-to-Tg,N,f,1440,Y,N,N,Tg,9.5,77.75,B
+Klagenfurt WC,2025,M,FARRELL Lyon,R,3,b-18-Ro,N,b,1800,N,N,N,Ro,9,46.75,A
+Klagenfurt WC,2025,M,MAZET BROWN Txema,G,1,b-16-Ng,N,b,1600,N,N,N,Ng,8,39.25,A
+Klagenfurt WC,2025,M,MAZET BROWN Txema,G,2,b-16-Ng,N,b,1600,N,N,N,Ng,8,45.75,A
+Klagenfurt WC,2025,M,MAZET BROWN Txema,G,3,f-D-14-Wed,N,f,1440,Y,N,N,Wed,9.5,77.0,B
+Klagenfurt WC,2025,M,YANG Wenlong,G,1,f-D-18-Tg,N,f,1800,Y,N,N,Tg,10,18.5,A
+Klagenfurt WC,2025,M,YANG Wenlong,G,2,f-D-18-Tg,N,f,1800,Y,N,N,Tg,10,89.5,A
+Klagenfurt WC,2025,M,YANG Wenlong,G,3,b-D-14-J,N,b,1440,Y,N,N,J,9.5,70.0,B
+Klagenfurt WC,2025,M,JAROS Samuel,G,1,Cab-14-Me,Y,Cab,1440,N,N,N,Me,8.5,76.75,A
+Klagenfurt WC,2025,M,JAROS Samuel,G,2,f-14-Ste,N,f,1440,N,N,N,Ste,8,79.25,B
+Klagenfurt WC,2025,M,SU Yiming,G,1,x-b-T-14-Wed,Y,b,1440,N,Y,N,Wed,10,79.5,A
+Klagenfurt WC,2025,M,SU Yiming,G,2,b-14-Wed,N,b,1440,N,N,N,Wed,8,75.5,B
+Klagenfurt WC,2025,M,FRAMARIN Loris,R,1,b-14-I-to-Ng,N,b,1440,N,N,N,Ng,8,73.0,A
+Klagenfurt WC,2025,M,FRAMARIN Loris,R,2,f-D-Td-10-I,N,f,1080,Y,N,N,I,7.5,77.5,B
+Klagenfurt WC,2025,M,MENZIES Dane,G,1,b-14-Me,N,b,1440,N,N,N,Me,8,75.75,A
+Klagenfurt WC,2025,M,MENZIES Dane,G,2,f-14-Tg,N,f,1440,N,N,N,Tg,8,72.0,B
+Klagenfurt WC,2025,M,GE Chunyu,G,1,b-T-14-Ddr,N,b,1440,N,Y,N,Ddr,10,72.25,A
+Klagenfurt WC,2025,M,GE Chunyu,G,2,f-14-Wed-to-Tg,N,f,1440,N,N,N,Tg,8,66.25,B
+Klagenfurt WC,2025,M,FRAMARIN Leo,R,1,f-14-I,N,f,1440,N,N,N,I,8,63.5,A
+Klagenfurt WC,2025,M,FRAMARIN Leo,R,2,Cab-T-14-Wed,Y,Cab,1440,N,Y,N,Wed,10,71.5,B
+Klagenfurt WC,2025,M,HENRICKSEN Dusty,G,1,b-14-J,N,b,1440,N,N,N,J,8,19.5,A
+Klagenfurt WC,2025,M,HENRICKSEN Dusty,G,2,b-D-14-J,N,b,1440,Y,N,N,J,9.5,77.75,A
+Klagenfurt WC,2025,M,HENRICKSEN Dusty,G,3,oT-f-10-Tg,N,f,1080,N,Y,N,Tg,8,57.25,B
+Klagenfurt WC,2025,M,ARAGON SALGUERO Jose,G,1,b-T-14-I,N,b,1440,N,Y,N,I,10,15.25,A
+Klagenfurt WC,2025,M,ARAGON SALGUERO Jose,G,2,b-T-14-I,N,b,1440,N,Y,N,I,10,74.75,A
+Klagenfurt WC,2025,M,ARAGON SALGUERO Jose,G,3,x-b-D-10-Hb-9,Y,b,1080,Y,N,N,Hb,8.0,57.75,B
+Klagenfurt WC,2025,M,DENDA Jeremy,G,1,f-D-12-Tg,N,f,1260,Y,N,N,Tg,8.5,65.25,A
+Klagenfurt WC,2025,M,DENDA Jeremy,G,2,b-D-12-Me,N,b,1260,Y,N,N,Me,8.5,14.25,B
+Klagenfurt WC,2025,M,DENDA Jeremy,G,3,b-D-12-Me,N,b,1260,Y,N,N,Me,8.5,65.0,B
+Klagenfurt WC,2025,M,CORNING Chris,G,1,b-T-18-Me,N,b,1800,N,Y,N,Me,10,26.25,A
+Klagenfurt WC,2025,M,CORNING Chris,G,2,b-T-18-Me,N,b,1800,N,Y,N,Me,10,88.0,A
+Klagenfurt WC,2025,M,CORNING Chris,G,3,f-14-Me,N,f,1440,N,N,N,Me,8,39.75,B
+Klagenfurt WC,2025,M,DOVJAK Eric,R,1,b-10-Me,N,b,1080,N,N,N,Me,6,52.0,A
+Klagenfurt WC,2025,M,DOVJAK Eric,R,2,f-14-Wed,N,f,1440,N,N,N,Wed,8,75.0,B
+Klagenfurt WC,2025,M,VICKTOR Noah,G,1,f-14-I,N,f,1440,N,N,N,I,8,49.0,A
+Klagenfurt WC,2025,M,VICKTOR Noah,G,2,b-T-14-Me,N,b,1440,N,Y,N,Me,10,75.0,B
+Klagenfurt WC,2025,M,FRIJNS Joewen,R,1,b-T-14-Wed,N,b,1440,N,Y,N,Wed,10,69.0,A
+Klagenfurt WC,2025,M,FRIJNS Joewen,R,2,f-10-Wed,N,f,1080,N,N,N,Wed,6,43.25,B
+Klagenfurt WC,2025,M,VALAX Enzo,R,1,x-b-T-16-Wed,Y,b,1600,N,Y,N,Wed,10,13.0,A
+Klagenfurt WC,2025,M,VALAX Enzo,R,2,x-b-T-16-Wed,Y,b,1600,N,Y,N,Wed,10,25.5,A
+Klagenfurt WC,2025,M,VALAX Enzo,R,3,b-D-16-Tg,N,b,1600,Y,N,N,Tg,9.5,83.75,B
+Klagenfurt WC,2025,M,JOBIN Francis,R,1,x-b-D-Rd-12-Tg,Y,b,1260,Y,N,Y,Tg,9.5,24.5,A
+Klagenfurt WC,2025,M,JOBIN Francis,R,2,x-b-D-Rd-12-Tg,Y,b,1260,Y,N,Y,Tg,9.5,44.5,A
+Klagenfurt WC,2025,M,JOBIN Francis,R,3,b-10-Ste,N,b,1080,N,N,N,Ste,6,61.25,B
+Klagenfurt WC,2025,M,LIVIERO Nicola,R,1,b-14-Tg,N,b,1440,N,N,N,Tg,8,16.0,A
+Klagenfurt WC,2025,M,LIVIERO Nicola,R,2,b-14-Tg,N,b,1440,N,N,N,Tg,8,20.0,A
+Klagenfurt WC,2025,M,LIVIERO Nicola,R,3,x-b-16-Me-to-Tg,Y,b,1600,N,N,N,Tg,8.5,85.0,B
+Klagenfurt WC,2025,M,LAUZI Emiliano,G,1,b-16-Me,N,b,1600,N,N,N,Me,8,18.0,A
+Klagenfurt WC,2025,M,LAUZI Emiliano,G,2,b-16-Me,N,b,1600,N,N,N,Me,8,43.0,A
+Klagenfurt WC,2025,M,LAUZI Emiliano,G,3,x-b-12-Me,Y,b,1260,N,N,N,Me,7.5,60.75,B
+Klagenfurt WC,2025,M,JARVILEHTO Kalle,R,1,b-D-16-Tg,N,b,1600,Y,N,N,Tg,9.5,83.75,A
+Klagenfurt WC,2025,M,JARVILEHTO Kalle,R,2,x-b-D-12-Me,Y,b,1260,Y,N,N,Me,9.0,13.0,B
+Klagenfurt WC,2025,M,DEPRIEST Brooklyn,R,1,b-14-Me,N,b,1440,N,N,N,Me,8,15.5,A
+Klagenfurt WC,2025,M,DEPRIEST Brooklyn,R,2,b-14-Me,N,b,1440,N,N,N,Me,8,74.25,A
+Klagenfurt WC,2025,M,DEPRIEST Brooklyn,R,3,x-b-T-14-Wed,Y,b,1440,N,Y,N,Wed,10,21.0,B
+Klagenfurt WC,2025,M,PARKINSON Jesse,R,1,b-14-Wed,N,b,1440,N,N,N,Wed,8,74.25,A
+Klagenfurt WC,2025,M,PARKINSON Jesse,R,2,f-D-14-Tdr,N,f,1440,N,N,N,Tdr,8,20.75,B
+Klagenfurt WC,2025,M,HUBER Nicolas,G,1,f-D-14-Tg,N,f,1440,Y,N,N,Tg,9.5,14.75,A
+Klagenfurt WC,2025,M,HUBER Nicolas,G,2,f-D-14-Tg,N,f,1440,Y,N,N,Tg,9.5,15.75,A
+Klagenfurt WC,2025,M,HUBER Nicolas,G,3,b-14-Ro,N,b,1440,N,N,N,Ro,8,77.0,B
+Klagenfurt WC,2025,M,SALAC Kristian,R,1,b-T-14-Wed,N,b,1440,N,Y,N,Wed,10,70.5,A
+Klagenfurt WC,2025,M,SALAC Kristian,R,2,f-D-14-Tg,N,f,1440,Y,N,N,Tg,9.5,18.75,B
+Klagenfurt WC,2025,M,KIMURA Kira,R,1,x-b-T-16-Tdr,Y,b,1600,N,Y,N,Tdr,10,22.0,A
+Klagenfurt WC,2025,M,KIMURA Kira,R,2,x-b-D-12-Wed,Y,b,1260,Y,N,N,Wed,9.0,62.75,A
+Klagenfurt WC,2025,M,KIMURA Kira,R,3,b-18-Me,N,b,1800,N,N,N,Me,9,25.75,B
+Klagenfurt WC,2025,M,BULLOCK-WOMBLE Fynn,R,1,b-16-Ro,N,b,1600,N,N,N,Ro,8,38.0,A
+Klagenfurt WC,2025,M,BULLOCK-WOMBLE Fynn,R,2,b-14-Ng,N,b,1440,N,N,N,Ng,8,72.25,A
+Klagenfurt WC,2025,M,BULLOCK-WOMBLE Fynn,R,3,f-14-Tg,N,f,1440,N,N,N,Tg,8,15.5,B
+Klagenfurt WC,2025,M,LOVELOCK Zephyr,R,1,b-16-Tg,N,b,1600,N,N,N,Tg,8,68.75,A
+Klagenfurt WC,2025,M,LOVELOCK Zephyr,R,2,f-14-Me,N,f,1440,N,N,N,Me,8,16.75,B
+Klagenfurt WC,2025,M,MEKINC Naj,G,1,b-T-14-St,N,b,1440,N,Y,N,St,10,73.75,A
+Klagenfurt WC,2025,M,MEKINC Naj,G,2,f-D-12-Wed,N,f,1260,Y,N,N,Wed,8.5,9.5,B
+Klagenfurt WC,2025,M,MATHISEN William,G,1,b-D-10-Me,N,b,1080,Y,N,N,Me,7.5,52.25,A
+Klagenfurt WC,2025,M,MATHISEN William,G,2,f-3,N,f,300,N,N,N,,2,25.0,B
+Klagenfurt WC,2025,M,MATHISEN William,G,3,b-D-12-Wed,N,b,1260,Y,N,N,Wed,8.5,59.25,A
+Klagenfurt WC,2025,M,JAMIESON Rocco,R,1,x-b-16-J,Y,b,1600,N,N,N,J,8.5,68.0,A
+Klagenfurt WC,2025,M,JAMIESON Rocco,R,2,b-14-Tg,N,b,1440,N,N,N,Tg,8,10.5,B
+Klagenfurt WC,2025,M,BOUCHARD Eli,G,1,Cab-T-16-I,Y,Cab,1600,N,Y,N,I,10,21.0,A
+Klagenfurt WC,2025,M,BOUCHARD Eli,G,3,Cab-D-14-I,Y,Cab,1440,Y,N,N,I,10.0,77.0,A
+Klagenfurt WC,2025,M,PIZARRO Pedro,R,1,f-14-I,N,f,1440,N,N,N,I,8,34.25,A
+Klagenfurt WC,2025,M,PIZARRO Pedro,R,2,f-14-I,N,f,1440,N,N,N,I,8,63.0,A
+Klagenfurt WC,2025,M,MIYAMURA Yuto,R,1,b-T-18-Me,N,b,1800,N,Y,N,Me,10,25.75,A
+Klagenfurt WC,2025,M,MIYAMURA Yuto,R,3,f-9-I,N,f,900,N,N,N,I,5,44.25,B
+Klagenfurt WC,2025,M,LEE Dongheon,R,1,x-b-16-J,Y,b,1600,N,N,N,J,8.5,17.75,A
+Klagenfurt WC,2025,M,LEE Dongheon,R,3,b-18-Tg,N,b,1800,N,N,N,Tg,9,23.75,B
+Klagenfurt WC,2025,M,BOSCH Anthon,R,1,b-14-Me,N,b,1440,N,N,N,Me,8,16.25,A
+Klagenfurt WC,2025,M,BOSCH Anthon,R,3,f-10-Mel,N,f,1080,N,N,N,Me,6,24.0,B
+Klagenfurt WC,2025,M,CHIARADIO de la IGLESIA Federico,R,1,f-12-I,N,f,1260,N,N,N,I,7,9.5,A
+Klagenfurt WC,2025,M,CHIARADIO de la IGLESIA Federico,R,2,f-14-I,N,f,1440,N,N,N,I,8,15.0,A
+Klagenfurt WC,2025,M,CHIARADIO de la IGLESIA Federico,R,3,b-D-10-Me,N,b,1080,Y,N,N,Me,7.5,10.75,B
+Klagenfurt WC,2025,M,YANEZ Alvaro,G,1,b-14-Me,N,b,1440,N,N,N,Me,8,18.75,A
+Klagenfurt WC,2025,M,YANEZ Alvaro,G,2,b-14-Me,N,b,1440,N,N,N,Me,8,23.25,A
+Klagenfurt WC,2025,M,YANEZ Alvaro,G,3,b-14-Me,N,b,1440,N,N,N,Me,8,25.0,A
+Klagenfurt WC,2025,M,VELDEN van der Niek,R,1,x-b-T-16-Tg,Y,b,1600,N,Y,N,Tg,10,20.5,A
+Kreischberg WC,2025,M,YANG Wenlong,G,1,f-D-18-Wed-to-Tg,N,f,1800,Y,N,N,Tg,10,86.0,A
+Kreischberg WC,2025,M,YANG Wenlong,G,2,b-18-J,N,b,1800,N,N,N,J,9,87.25,B
+Kreischberg WC,2025,M,YANG Wenlong,G,3,b-19-J,N,b,1980,N,N,N,J,10,96.5,B
+Kreischberg WC,2025,M,HASEGAWA Taiga,R,1,Cab-18-Wed,Y,Cab,1800,N,N,N,Wed,9.5,89.5,A
+Kreischberg WC,2025,M,HASEGAWA Taiga,R,2,f-18-I,N,f,1800,N,N,N,I,9,90.75,B
+Kreischberg WC,2025,M,KIMURA Kira,R,1,b-18-Me,N,b,1800,N,N,N,Me,9,89.0,A
+Kreischberg WC,2025,M,KIMURA Kira,R,2,x-b-16-Ddr,Y,b,1600,N,N,N,Ddr,8.5,79.75,B
+Kreischberg WC,2025,M,JARVILEHTO Kalle,R,1,b-D-16-Ng,N,b,1600,Y,N,N,Ng,9.5,70.25,A
+Kreischberg WC,2025,M,JARVILEHTO Kalle,R,2,x-b-D-16-Ng,Y,b,1600,Y,N,N,Ng,10.0,79.75,B
+Kreischberg WC,2025,M,JARVILEHTO Kalle,R,3,b-D-16-Ng,N,b,1600,Y,N,N,Ng,9.5,83.5,A
+Kreischberg WC,2025,M,KIRKHUS Oyvind,R,1,x-D-b-Rd-12-Ng,Y,b,1260,Y,N,Y,Ng,9.5,85.25,A
+Kreischberg WC,2025,M,KIRKHUS Oyvind,R,2,b-T-16-I,N,b,1600,N,Y,N,I,10,68.25,B
+Kreischberg WC,2025,M,KIRKHUS Oyvind,R,3,b-T-16-I,N,b,1600,N,Y,N,I,10,76.5,B
+Kreischberg WC,2025,M,VALAX Enzo,R,1,b-D-16-Tg,N,b,1600,Y,N,N,Tg,9.5,80.0,A
+Kreischberg WC,2025,M,VALAX Enzo,R,2,x-b-D-16-Wed,Y,b,1600,Y,N,N,Wed,10.0,66.75,B
+Kreischberg WC,2025,M,VALAX Enzo,R,3,x-b-T-16-Wed,Y,b,1600,N,Y,N,Wed,10,78.0,B
+Kreischberg WC,2025,M,FRAMARIN Leo,R,1,f-T-18,N,f,1800,N,Y,N,,10,21.75,A
+Kreischberg WC,2025,M,FRAMARIN Leo,R,2,f-18-I,N,f,1800,N,N,N,I,9,84.0,A
+Kreischberg WC,2025,M,FRAMARIN Leo,R,3,Cab-14-Wed,Y,Cab,1440,N,N,N,Wed,8.5,69.25,B
+Kreischberg WC,2025,M,JOBIN Francis,R,1,x-b-Rd-12-Ng,Y,b,1260,N,N,Y,Ng,8.0,32.25,A
+Kreischberg WC,2025,M,JOBIN Francis,R,2,x-b-Rd-12-Ng,Y,b,1260,N,N,Y,Ng,8.0,83.25,A
+Kreischberg WC,2025,M,JOBIN Francis,R,3,b-T-16-I,N,b,1600,N,Y,N,I,10,66.5,B
+Kreischberg WC,2025,M,SU Yiming,G,1,x-b-D-14-J,Y,b,1440,Y,N,N,J,10.0,72.0,A
+Kreischberg WC,2025,M,SU Yiming,G,2,b-16-Me-to-St,N,b,1600,N,N,N,St,8,24.5,B
+Kreischberg WC,2025,M,SU Yiming,G,3,b-16-Me-to-St,N,b,1600,N,N,N,St,8,68.75,B
+Kreischberg WC,2025,M,CANTER Jake,G,1,b-18-Me,N,b,1800,N,N,N,Me,9,89.75,A
+Kreischberg WC,2025,M,CANTER Jake,G,2,x-b-16-Wed,Y,b,1600,N,N,N,Wed,8.5,17.0,B
+Kreischberg WC,2025,M,HRONES Jakub,G,1,Cab-16-Wed-to-Ng,Y,Cab,1600,N,N,N,Ng,8.5,52.25,A
+Kreischberg WC,2025,M,HRONES Jakub,G,2,f-14-Wed,N,f,1440,N,N,N,Wed,8,68.0,B
+Kreischberg WC,2025,M,HRONES Jakub,G,3,Cab-18-Ng,Y,Cab,1800,N,N,N,Ng,9.5,85.25,A
+Kreischberg WC,2025,M,MAZET BROWN Txema,G,1,Cab-D-18-I,Y,Cab,1800,Y,N,N,I,10,85.25,A
+Kreischberg WC,2025,M,MAZET BROWN Txema,G,2,f-14-Wed,N,f,1440,N,N,N,Wed,8,67.75,B
+Kreischberg WC,2025,M,GERARD Redmond,R,1,x-b-16-Wed,Y,b,1600,N,N,N,Wed,8.5,76.0,A
+Kreischberg WC,2025,M,GERARD Redmond,R,2,b-14-Me,N,b,1440,N,N,N,Me,8,68.75,B
+Kreischberg WC,2025,M,CORNING Chris,G,1,b-D-18-Me,N,b,1800,Y,N,N,Me,10,81.0,A
+Kreischberg WC,2025,M,CORNING Chris,G,2,f-14-Me,N,f,1440,N,N,N,Me,8,57.25,B
+Kreischberg WC,2025,M,CORNING Chris,G,3,f-14-Me,N,f,1440,N,N,N,Me,8,62.0,B
+Kreischberg WC,2025,M,ROBERTSON-HAHN Joshua,R,1,f-14-Tg,N,f,1440,N,N,N,Tg,8,70.5,A
+Kreischberg WC,2025,M,ROBERTSON-HAHN Joshua,R,2,b-14-I,N,b,1440,N,N,N,I,8,70.5,B
+Kreischberg WC,2025,M,JURMU Erik,G,1,f-18-Tg,N,f,1800,N,N,N,Tg,9,73.75,A
+Kreischberg WC,2025,M,JURMU Erik,G,2,Cab-14-Ng,Y,Cab,1440,N,N,N,Ng,8.5,12.5,B
+Kreischberg WC,2025,M,JURMU Erik,G,3,Cab-14-Ng,Y,Cab,1440,N,N,N,Ng,8.5,67.0,B
+Kreischberg WC,2025,M,GJERDALEN Bendik,R,1,f-14-Wed,N,f,1440,N,N,N,Wed,8,61.75,A
+Kreischberg WC,2025,M,GJERDALEN Bendik,R,2,b-T-14-Wed,N,b,1440,N,Y,N,Wed,10,70.5,B
+Kreischberg WC,2025,M,GJERDALEN Bendik,R,3,f-14-Wed,N,f,1440,N,N,N,Wed,8,69.25,A
+Kreischberg WC,2025,M,MENZIES Dane,G,1,f-D-14-Tg,N,f,1440,Y,N,N,Tg,9.5,73.0,A
+Kreischberg WC,2025,M,MENZIES Dane,G,2,b-14-Me,N,b,1440,N,N,N,Me,8,62.0,B
+Kreischberg WC,2025,M,VOCKENSPERGER Leon,R,1,x-b-16-J,Y,b,1600,N,N,N,J,8.5,64.5,A
+Kreischberg WC,2025,M,VOCKENSPERGER Leon,R,2,b-14-Me,N,b,1440,N,N,N,Me,8,65.0,B
+Kreischberg WC,2025,M,VOCKENSPERGER Leon,R,3,x-b-16-J,Y,b,1600,N,N,N,J,8.5,67.0,A
+Kreischberg WC,2025,M,PARKINSON Jesse,R,1,f-14-I,N,f,1440,N,N,N,I,8,16.25,A
+Kreischberg WC,2025,M,PARKINSON Jesse,R,2,f-14-Tdr,N,f,1440,N,N,N,Tdr,8,61.5,A
+Kreischberg WC,2025,M,PARKINSON Jesse,R,3,b-14-Wed,N,b,1440,N,N,N,Wed,8,68.25,B
+Kreischberg WC,2025,M,TOBITA Ruki,R,1,x-b-16-Wed,Y,b,1600,N,N,N,Wed,8.5,76.0,A
+Kreischberg WC,2025,M,TOBITA Ruki,R,2,b-16-St,N,b,1600,N,N,N,St,8,20.0,B
+Kreischberg WC,2025,M,TOBITA Ruki,R,3,b-16-St,N,b,1600,N,N,N,St,8,53.0,B
+Kreischberg WC,2025,M,MILLAUER Clemens,R,1,x-b-D-16-Ng,Y,b,1600,Y,N,N,Ng,10.0,64.75,A
+Kreischberg WC,2025,M,MILLAUER Clemens,R,2,b-D-16-Ng,N,b,1600,Y,N,N,Ng,9.5,15.0,B
+Kreischberg WC,2025,M,MILLAUER Clemens,R,3,b-D-16-Ng,N,b,1600,Y,N,N,Ng,9.5,59.25,B
+Kreischberg WC,2025,M,BRCIC Dante,R,1,b-T-14-I,N,b,1440,N,Y,N,I,10,69.75,A
+Kreischberg WC,2025,M,BRCIC Dante,R,2,x-b-D-12-Me,Y,b,1260,Y,N,N,Me,9.0,8.75,B
+Kreischberg WC,2025,M,BRCIC Dante,R,3,x-b-D-12-Me,Y,b,1260,Y,N,N,Me,9.0,53.25,B
+Kreischberg WC,2025,M,HENRICKSEN Dusty,G,1,b-14-J,N,b,1440,N,N,N,J,8,72.0,A
+Kreischberg WC,2025,M,HENRICKSEN Dusty,G,2,f-10-Ng,N,f,1080,N,N,N,Ng,6,45.75,B
+Kreischberg WC,2025,M,HENRICKSEN Dusty,G,3,f-10-Ng,N,f,1080,N,N,N,Ng,6,50.25,B
+Kreischberg WC,2025,M,JOHNSON Liam,R,1,b-12-Me,N,b,1260,N,N,N,Me,7,50.25,A
+Kreischberg WC,2025,M,JOHNSON Liam,R,2,x-b-12-Wed,Y,b,1260,N,N,N,Wed,7.5,61.75,B
+Kreischberg WC,2025,M,JOHNSON Liam,R,3,b-12-Me,N,b,1260,N,N,N,Me,7,60.0,A
+Kreischberg WC,2025,M,MATHISEN William,G,1,b-T-14-Wed,N,b,1440,N,Y,N,Wed,10,69.25,A
+Kreischberg WC,2025,M,MATHISEN William,G,2,x-b-D-10-Wed,Y,b,1080,Y,N,N,Wed,8.0,52.0,B
+Kreischberg WC,2025,M,JAMIESON Rocco,R,1,b-D-14-Tg,N,b,1440,Y,N,N,Tg,9.5,70.25,A
+Kreischberg WC,2025,M,JAMIESON Rocco,R,2,f-18-Bd,N,f,1800,N,N,N,Bd,9,21.5,B
+Kreischberg WC,2025,M,JAMIESON Rocco,R,3,f-18-Bd,N,f,1800,N,N,N,Bd,9,46.5,B
+Kreischberg WC,2025,M,FARRELL Lyon,R,1,b-18-Ro,N,b,1800,N,N,N,Ro,9,36.75,A
+Kreischberg WC,2025,M,FARRELL Lyon,R,2,f-T-14-Wed-to-Tg,N,f,1440,N,Y,N,Tg,10,61.25,B
+Kreischberg WC,2025,M,FARRELL Lyon,R,3,b-18-Ro,N,b,1800,N,N,N,Ro,9,50.75,A
+Kreischberg WC,2025,M,BULLOCK-WOMBLE Fynn,R,1,b-14-D-Ro,N,b,1440,Y,N,N,Ro,9.5,65.75,A
+Kreischberg WC,2025,M,BULLOCK-WOMBLE Fynn,R,2,f-14-Tg,N,f,1440,N,N,N,Tg,8,28.25,B
+Kreischberg WC,2025,M,OGIWARA Hiroto,R,1,b-18-I,N,b,1800,N,N,N,I,9,89.75,A
+Kreischberg WC,2025,M,OGIWARA Hiroto,R,2,f-18-Wed,N,f,1800,N,N,N,Wed,9,19.0,B
+Kreischberg WC,2025,M,YANEZ Alvaro,G,1,D-b-9-Rd-Ng,N,b,900,Y,N,Y,Ng,7.0,54.0,A
+Kreischberg WC,2025,M,YANEZ Alvaro,G,2,f-10-I,N,f,1080,N,N,N,I,6,38.5,B
+Kreischberg WC,2025,M,YANEZ Alvaro,G,3,b-10-Me,N,b,1080,N,N,N,Me,6,50.25,C
+Kreischberg WC,2025,M,ROISLAND Mons,R,1,f-Td-14-Tg,N,f,1440,N,N,N,Tg,8,18.25,A
+Kreischberg WC,2025,M,ROISLAND Mons,R,2,f-Td-14-Tg,N,f,1440,N,N,N,Tg,8,83.25,A
+Kreischberg WC,2025,M,ROISLAND Mons,R,3,b-16-Me,N,b,1600,N,N,N,Me,8,18.75,B
+Kreischberg WC,2025,M,LOTORTO Alex,G,1,x-b-D-10-Wed,Y,b,1080,Y,N,N,Wed,8.0,42.25,A
+Kreischberg WC,2025,M,LOTORTO Alex,G,2,b-D-12-Wed,N,b,1260,Y,N,N,Wed,8.5,11.5,B
+Kreischberg WC,2025,M,LOTORTO Alex,G,3,b-12-Wed,N,b,1260,N,N,N,Wed,7,58.75,B
+Kreischberg WC,2025,M,FITZSIMONS Sean,R,1,f-T-14-Wed,N,f,1440,N,Y,N,Wed,10,71.75,A
+Kreischberg WC,2025,M,FITZSIMONS Sean,R,2,b-14-Me,N,b,1440,N,N,N,Me,8,29.0,B
+Kreischberg WC,2025,M,LEE Dongheon,R,1,b-D-18-Tg,N,b,1800,Y,N,N,Tg,10,90.0,A
+Kreischberg WC,2025,M,LEE Dongheon,R,2,x-b-T-14-J,Y,b,1440,N,Y,N,J,10,10.0,B
+Kreischberg WC,2025,M,ALMQVIST Gabriel,R,1,x-b-D-16,Y,b,1600,Y,N,N,,10.0,8.25,A
+Kreischberg WC,2025,M,ALMQVIST Gabriel,R,2,x-b-D-16-Ng,Y,b,1600,Y,N,N,Ng,10.0,79.75,A
+Kreischberg WC,2025,M,ALMQVIST Gabriel,R,3,b-T-14-Me,N,b,1440,N,Y,N,Me,10,13.25,B
+Kreischberg WC,2025,M,MEKINC Naj,G,1,b-T-14-Ddr,N,b,1440,N,Y,N,Ddr,10,14.75,A
+Kreischberg WC,2025,M,MEKINC Naj,G,2,b-T-14-Ddr,N,b,1440,N,Y,N,Ddr,10,71.0,A
+Kreischberg WC,2025,M,MEKINC Naj,G,3,f-12-Wed,N,f,1260,N,N,N,Wed,7,15.0,B
+Kreischberg WC,2025,M,GE Chunyu,G,1,b-T-14-Wed,N,b,1440,N,Y,N,Wed,10,15.75,A
+Kreischberg WC,2025,M,GE Chunyu,G,2,b-T-14-Wed,N,b,1440,N,Y,N,Wed,10,70.5,A
+Kreischberg WC,2025,M,GE Chunyu,G,3,f-14-Wed,N,f,1440,N,N,N,Wed,8,14.0,B
+Kreischberg WC,2025,M,LIVIERO Nicola,R,1,x-b-16-Ng,Y,b,1600,N,N,N,Ng,8.5,11.75,A
+Kreischberg WC,2025,M,LIVIERO Nicola,R,2,b-14-Tg,N,b,1440,N,N,N,Tg,8,67.0,B
+Kreischberg WC,2025,M,JAROS Samuel,G,1,Cab-16-St,Y,Cab,1600,N,N,N,St,8.5,15.0,A
+Kreischberg WC,2025,M,JAROS Samuel,G,2,f-14-Ste,N,f,1440,N,N,N,Ste,8,62.5,B
+Kreischberg WC,2025,M,VICKTOR Noah,G,1,f-12-I,N,f,1260,N,N,N,I,7,10.0,A
+Kreischberg WC,2025,M,VICKTOR Noah,G,2,f-14-I,N,f,1440,N,N,N,I,8,12.75,A
+Kreischberg WC,2025,M,VICKTOR Noah,G,3,Cab-D-9-Bb-1-Me,Y,Cab,900,Y,N,N,Me,7.0,60.25,B
+Kreischberg WC,2025,M,LAUZI Emiliano,G,1,b-16-Me,N,b,1600,N,N,N,Me,8,14.75,A
+Kreischberg WC,2025,M,LAUZI Emiliano,G,2,b-16-Me,N,b,1600,N,N,N,Me,8,56.25,A
+Kreischberg WC,2025,M,BOUCHARD Eli,G,1,f-T-18-Wed,N,f,1800,N,Y,N,Wed,10,17.75,A
+Kreischberg WC,2025,M,BOUCHARD Eli,G,3,b-16-Ng,N,b,1600,N,N,N,Ng,8,50.0,B
+Kreischberg WC,2025,M,JUNKER Jonas,G,1,b-T-14-Wed,N,b,1440,N,Y,N,Wed,10,15.5,A
+Kreischberg WC,2025,M,JUNKER Jonas,G,2,b-D-10-Wed,N,b,1080,Y,N,N,Wed,7.5,37.0,A
+Kreischberg WC,2025,M,JUNKER Jonas,G,3,f-10-I,N,f,1080,N,N,N,I,6,28.0,B
+Kreischberg WC,2025,M,SALAC Kristian,R,1,b-T-16-Wed,N,b,1600,N,Y,N,Wed,10,15.5,A
+Kreischberg WC,2025,M,SALAC Kristian,R,2,b-D-10-Wed-to-Tg,N,b,1080,Y,N,N,Tg,7.5,52.0,A
+Kreischberg WC,2025,M,DENDA Jeremy,G,1,b-16-Me,N,b,1600,N,N,N,Me,8,16.0,A
+Kreischberg WC,2025,M,DENDA Jeremy,G,3,f-D-12-Tg,N,f,1260,Y,N,N,Tg,8.5,44.75,B
+Kreischberg WC,2025,M,FRAMARIN Loris,R,1,f-Td-12-TK,N,f,1260,N,N,N,TK,7,32.5,A
+Kreischberg WC,2025,M,FRAMARIN Loris,R,3,b-14-Ng,N,b,1440,N,N,N,Ng,8,13.75,B
+Kreischberg WC,2025,M,KIMATA Ryoma,R,1,f-18-D-Tg,N,f,1800,Y,N,N,Tg,10,22.0,A
+Kreischberg WC,2025,M,KIMATA Ryoma,R,2,f-18-D-Tg,N,f,1800,Y,N,N,Tg,10,28.0,A
+Kreischberg WC,2025,M,KIMATA Ryoma,R,3,b-16-Me,N,b,1600,N,N,N,Me,8,17.75,B
+Kreischberg WC,2025,M,LOVELOCK Zephyr,R,1,b-16-Tg,N,b,1600,N,N,N,Tg,8,20.25,A
+Kreischberg WC,2025,M,LOVELOCK Zephyr,R,3,x-b-18-Ng,Y,b,1800,N,N,N,Ng,9.5,7.75,B
+Kreischberg WC,2025,M,BOSCH Anthon,R,1,b-16-Me,N,b,1600,N,N,N,Me,8,15.5,A
+Kreischberg WC,2025,M,BOSCH Anthon,R,3,f-12-Wed,N,f,1260,N,N,N,Wed,7,11.25,B
+Kreischberg WC,2025,M,MIYAMURA Yuto,R,1,f-T-18-I,N,f,1800,N,Y,N,I,10,26.0,A
+Kreischberg WC,2025,M,DEPRIEST Brooklyn,R,1,x-b-14,Y,b,1440,N,N,N,,8.5,11.0,A
+Kreischberg WC,2025,M,DEPRIEST Brooklyn,R,2,b-14-Me,N,b,1440,N,N,N,Me,8,12.75,B
+Kreischberg WC,2025,M,FRIJNS Joewen,R,1,b-T-14-Wed,N,b,1440,N,Y,N,Wed,10,7.0,A
+Kreischberg WC,2025,M,FRIJNS Joewen,R,2,f-14-Slb-to-Wed,N,f,1440,N,N,N,Wed,8,14.25,B
+Kreischberg WC,2025,M,VERMAAT Sam,R,1,f-D-18-Tg,N,f,1800,Y,N,N,Tg,10,16.0,A
+Kreischberg WC,2025,M,VERMAAT Sam,R,2,f-T-16-Tg,N,f,1600,N,Y,N,Tg,10,10.75,A
+Kreischberg WC,2025,M,MATTEOLI Ian,R,1,f-18-Wed-to-Tg,N,f,1800,N,N,N,Tg,9,15.5,A
+Secret Garden WC,2025,M,SU Yiming,G,1,b-19-Ng,N,b,1980,N,N,N,Ng,10,86.25,A
+Secret Garden WC,2025,M,SU Yiming,G,2,x-b-19-Me,Y,b,1980,N,N,N,Me,10,88.25,B
+Secret Garden WC,2025,M,GE Chunyu,G,1,b-T-18-J,N,b,1800,N,Y,N,J,10,38.0,A
+Secret Garden WC,2025,M,GE Chunyu,G,2,f-T-Td-14-Mu,N,f,1440,N,Y,N,Mu,10,77.0,B
+Secret Garden WC,2025,M,GE Chunyu,G,3,b-19-Mu,N,b,1980,N,N,N,Mu,10,82.5,A
+Secret Garden WC,2025,M,KIMATA Ryoma,R,1,b-19-Me,N,b,1980,N,N,N,Me,10,76.75,A
+Secret Garden WC,2025,M,KIMATA Ryoma,R,2,x-b-19-Ng,Y,b,1980,N,N,N,Ng,10,23.25,B
+Secret Garden WC,2025,M,KIMATA Ryoma,R,3,x-b-19-Tg,Y,b,1980,N,N,N,Tg,10,81.75,B
+Secret Garden WC,2025,M,BOUCHARD Eli,G,1,t-Mo,N,f,,N,N,N,,,69.75,A
+Secret Garden WC,2025,M,BOUCHARD Eli,G,2,bob,N,f,,N,N,N,,,84.0,B
+Secret Garden WC,2025,M,DEPRIEST Brooklyn,R,1,x-b-T-19-Mu,Y,b,1980,N,Y,N,Mu,10,19.5,A
+Secret Garden WC,2025,M,DEPRIEST Brooklyn,R,2,x-b-T-19-Mui,Y,b,1980,N,Y,N,,10,80.5,A
+Secret Garden WC,2025,M,DEPRIEST Brooklyn,R,3,b-18-Me,N,b,1800,N,N,N,Me,9,71.75,B
+Secret Garden WC,2025,M,HENKES Justus,R,1,f-1-NB-to-x-b-12-Me,N,f,180,N,N,N,Me,1,79.0,A
+Secret Garden WC,2025,M,HENKES Justus,R,2,Cab-12-oT-I,Y,Cab,1260,N,Y,N,I,9.5,62.25,B
+Secret Garden WC,2025,M,MIYAMURA Yuto,R,1,f-19-I,N,f,1980,N,N,N,I,10,23.5,A
+Secret Garden WC,2025,M,MIYAMURA Yuto,R,2,b-19-Me,N,b,1980,N,N,N,Me,10,84.75,B
+Secret Garden WC,2025,M,HASEGAWA Taiga,R,1,Cab-21-Mu,Y,Cab,2160,N,N,N,Mu,10,23.0,A
+Secret Garden WC,2025,M,HASEGAWA Taiga,R,2,Cab-21-Mu,Y,Cab,2160,N,N,N,Mu,10,41.25,A
+Secret Garden WC,2025,M,HASEGAWA Taiga,R,3,f-18-I,N,f,1800,N,N,N,I,9,66.5,B
+Secret Garden WC,2025,M,KIMURA Kira,R,1,b-19-Me,N,b,1980,N,N,N,Me,10,24.5,A
+Secret Garden WC,2025,M,KIMURA Kira,R,3,x-b-T-14-Mu,Y,b,1440,N,Y,N,Mu,10,59.0,B
+Secret Garden WC,2025,M,ALLEMAND Romain,R,1,f-18-Bd,N,f,1800,N,N,N,Bd,9,83.5,
+Secret Garden WC,2025,M,ALLEMAND Romain,R,2,b-14-Tg-pb,N,b,1440,N,N,N,pb,8,85.25,
+Secret Garden WC,2025,M,MATTEOLI Ian,R,1,x-b-18-Me,Y,b,1800,N,N,N,Me,9.5,82.5,
+Secret Garden WC,2025,M,LEHNER Elias Lionel,G,1,f-T-18-Mu,N,f,1800,N,Y,N,Mu,10,81.5,
+Secret Garden WC,2025,M,YANG Wenlong,G,1,b-18-J,N,b,1800,N,N,N,J,9,81.0,
+Secret Garden WC,2025,M,LIU Haoyu,R,1,x-b-18-Ng,Y,b,1800,N,N,N,Ng,9.5,80.75,
+Secret Garden WC,2025,M,BAMFORD Brodie,G,1,f-D-14,N,f,1440,Y,N,N,,9.5,54.5,
+Secret Garden WC,2025,M,BAMFORD Brodie,G,2,f-D-18-I,N,f,1800,Y,N,N,I,10,80.25,
+Secret Garden WC,2025,M,KLEVELAND Marcus,G,1,b-16-I,N,b,1600,N,N,N,I,8,69.75,
+Secret Garden WC,2025,M,KLEVELAND Marcus,G,2,NB-b-16-I,N,f,1600,N,N,N,I,8,80.0,
+Secret Garden WC,2025,M,FARRELL Lyon,R,1,b-18-Ro,N,b,1800,N,N,N,Ro,9,79.5,
+Secret Garden WC,2025,M,MILLAUER Clemens,R,1,b-18-Ng,N,b,1800,N,N,N,Ng,9,78.25,
+Secret Garden WC,2025,M,ROBERTSON-HAHN Joshua,R,1,f-D-18-Tg,N,f,1800,Y,N,N,Tg,10,77.5,
+Secret Garden WC,2025,M,JUKOLA Ville,R,1,f-18-I,N,f,1800,N,N,N,I,9,75.0,
+Secret Garden WC,2025,M,JUKOLA Ville,R,2,f-T-18-Mu,N,f,1800,N,Y,N,Mu,10,77.25,
+Secret Garden WC,2025,M,BULLOCK-WOMBLE Fynn,R,1,b-18-Ng,N,b,1800,N,N,N,Ng,9,76.5,
+Secret Garden WC,2025,M,ZHAO Yingxu,G,1,f-D-18-I,N,f,1800,Y,N,N,I,10,73.25,
+Secret Garden WC,2025,M,KUNITAKE Hiroaki,G,1,b-18-Me,N,b,1800,N,N,N,Me,9,73.25,
+Secret Garden WC,2025,M,KIMURA Yuto,R,1,CAb-18-Ng,N,b,1800,N,N,N,Ng,9,18.5,
+Secret Garden WC,2025,M,KIMURA Yuto,R,2,Cab-19-Mu,Y,Cab,1980,N,N,N,Mu,10,72.0,
+Secret Garden WC,2025,M,HRONES Jakub,G,1,Cab-18-Ng,Y,Cab,1800,N,N,N,Ng,9.5,18.5,
+Secret Garden WC,2025,M,HRONES Jakub,G,2,Cab-16-D-Ng,Y,Cab,1600,Y,N,N,Ng,10.0,70.75,
+Secret Garden WC,2025,M,OGIWARA Hiroto,R,1,b-19-Tg,N,b,1980,N,N,N,Tg,10,70.25,
+Secret Garden WC,2025,M,LIVIERO Nicola,R,1,x-b-D-Rd-12-Ng,Y,b,1260,Y,N,Y,Ng,9.5,67.75,
+Secret Garden WC,2025,M,CANTER Jake,G,1,b-19-Me,N,b,1980,N,N,N,Me,10,24.75,
+Secret Garden WC,2025,M,CANTER Jake,G,2,b-16-Me,N,b,1600,N,N,N,Me,8,66.75,
+Secret Garden WC,2025,M,GUSELI Valentino,R,1,x-b-16-D-Tg,Y,b,1600,Y,N,N,Tg,10.0,64.75,
+Secret Garden WC,2025,M,VERMAAT Sam,R,1,f-D-18-Tg,N,f,1800,Y,N,N,Tg,10,21.0,
+Secret Garden WC,2025,M,VERMAAT Sam,R,2,f-D-16-Tg,N,f,1600,Y,N,N,Tg,9.5,63.5,
+Secret Garden WC,2025,M,FRAMARIN Loris,R,1,x-b-D-16-J,Y,b,1600,Y,N,N,J,10.0,62.5,
+Secret Garden WC,2025,M,HASLER Jonas,R,1,Cab-D-16-Ng,Y,Cab,1600,Y,N,N,Ng,10.0,62.5,
+Secret Garden WC,2025,M,VALAX Enzo,R,1,b-16-Tg,N,b,1600,N,N,N,Tg,8,61.0,
+Secret Garden WC,2025,M,McMORRIS Mark,R,1,b-18-Me,N,b,1800,N,N,N,Me,9,59.75,
+Secret Garden WC,2025,M,WROBEL Evan,G,1,Cab-14-Gor,Y,Cab,1440,N,N,N,Go,8.5,20.75,
+Secret Garden WC,2025,M,WROBEL Evan,G,2,Cab-14-Gor,Y,Cab,1440,N,N,N,Go,8.5,59.25,
+Secret Garden WC,2025,M,MENZIES Dane,G,1,f-D-14-Tg,N,f,1440,Y,N,N,Tg,9.5,13.25,
+Secret Garden WC,2025,M,MENZIES Dane,G,2,f-T-18-Tg,N,f,1800,N,Y,N,Tg,10,57.75,
+Secret Garden WC,2025,M,HUBER Niklas,R,1,b-T-16-Mu,N,b,1600,N,Y,N,Mu,10,56.25,
+Secret Garden WC,2025,M,COLLINS Tiarn,G,1,b-14-Me,N,b,1440,N,N,N,Me,8,53.25,
+Secret Garden WC,2025,M,JIANG Xinjie,R,1,f-T-18-Mu,N,f,1800,N,Y,N,Mu,10,52.5,
+Secret Garden WC,2025,M,PARKINSON Jesse,R,1,b-T-14-Mu,N,b,1440,N,Y,N,Mu,10,51.25,
+Secret Garden WC,2025,M,RINNEKANGAS Rene,R,1,NB-b-Rd-12-Tg,N,f,1260,N,N,Y,Tg,7.5,50.5,
+Secret Garden WC,2025,M,FRAMARIN Leo,R,1,Cab-16-Mu,Y,Cab,1600,N,N,N,Mu,8.5,10.75,
+Secret Garden WC,2025,M,FRAMARIN Leo,R,2,Cab-18-Mu,Y,Cab,1800,N,N,N,Mu,9.5,50.25,
+Secret Garden WC,2025,M,BREU Moritz,G,1,b-T-14-Mu,N,b,1440,N,Y,N,Mu,10,49.0,
+Secret Garden WC,2025,M,JAMIESON Rocco,R,1,b-14-Ng,N,b,1440,N,N,N,Ng,8,40.75,
+Secret Garden WC,2025,M,HUBER Nicolas,G,1,b-18-Ng,N,b,1800,N,N,N,Ng,9,38.25,
+Secret Garden WC,2025,M,LEE Dongheon,R,1,b-D-18-Tg,N,b,1800,Y,N,N,Tg,10,34.25,
+Secret Garden WC,2025,M,JOBIN Francis,R,1,x-b-D-Rd-12-Ng,Y,b,1260,Y,N,Y,Ng,9.5,31.5,
+Secret Garden WC,2025,M,JARVILEHTO Kalle,R,1,Cab-f-C-7-oT-Ng,Y,Cab,700,N,Y,N,Ng,6.5,28.5,
+Secret Garden WC,2025,M,MAZET BROWN Txema,G,1,Cab-T-16-I,Y,Cab,1600,N,Y,N,I,10,17.25,
+Secret Garden WC,2025,M,MAZET BROWN Txema,G,2,Cab-T-16-I,Y,Cab,1600,N,Y,N,I,10,27.75,
+Secret Garden WC,2025,M,ALMQVIST Gabriel,R,1,D-bF,N,f,,Y,N,N,,,24.75,
+Secret Garden WC,2025,M,GJERDALEN Bendik,R,1,f-18-Mu,N,f,1800,N,N,N,Mu,9,23.25,
+Secret Garden WC,2025,M,KIRKHUS Oyvind,R,1,x-b-D-Rd-16-St,Y,b,1600,Y,N,Y,St,10,22.25,
+Secret Garden WC,2025,M,BRCIC Dante,R,1,x-b-T-12-Mu,Y,b,1260,N,Y,N,Mu,9.5,15.25,
+Secret Garden WC,2025,M,BRCIC Dante,R,2,x-b-T-14-Mu,Y,b,1440,N,Y,N,Mu,10,16.25,
+Secret Garden WC,2025,M,VELDEN van der Niek,R,1,x-b-T-16-Tg,Y,b,1600,N,Y,N,Tg,10,17.0,
+Steamboat WC,2025,M,OGIWARA Hiroto,R,1,f-T-18-Mu,N,f,1800,N,Y,N,Mu,10,35.25,A
+Steamboat WC,2025,M,OGIWARA Hiroto,R,2,f-T-18-Mu,N,f,1800,N,Y,N,Mu,10,85.5,A
+Steamboat WC,2025,M,OGIWARA Hiroto,R,3,b-19-Tg,N,b,1980,N,N,N,Tg,10,94.75,B
+Steamboat WC,2025,M,KIMURA Kira,R,1,b-19-Me,N,b,1980,N,N,N,Me,10,90.5,A
+Steamboat WC,2025,M,KIMURA Kira,R,2,x-b-18-Ddr,Y,b,1800,N,N,N,Ddr,9.5,88.75,B
+Steamboat WC,2025,M,MARTIN Oliver,R,1,f-T-18-Mu,N,f,1800,N,Y,N,Mu,10,84.0,A
+Steamboat WC,2025,M,MARTIN Oliver,R,2,Cab-T-16-pb-Mu,Y,Cab,1600,N,Y,N,Mu,10,90.0,B
+Steamboat WC,2025,M,KIMATA Ryoma,R,1,b-19-Me,N,b,1980,N,N,N,Me,10,19.25,A
+Steamboat WC,2025,M,KIMATA Ryoma,R,2,b-19-Me,N,b,1980,N,N,N,Me,10,81.75,A
+Steamboat WC,2025,M,KIMATA Ryoma,R,3,x-b-D-Rd-12-St,Y,b,1260,Y,N,Y,St,9.5,86.25,B
+Steamboat WC,2025,M,RINNEKANGAS Rene,R,1,b-NB-Rd-14-Tg,N,b,1440,N,N,Y,Tg,8.5,89.5,A
+Steamboat WC,2025,M,RINNEKANGAS Rene,R,2,x-b-D-Rd-12-St,Y,b,1260,Y,N,Y,St,9.5,30.75,B
+Steamboat WC,2025,M,RINNEKANGAS Rene,R,3,x-b-D-Rd-9-St,Y,b,900,Y,N,Y,St,7.5,58.0,B
+Steamboat WC,2025,M,HENKES Justus,R,1,f-NB-14-Me,N,f,1440,N,N,N,Me,8,67.5,A
+Steamboat WC,2025,M,HENKES Justus,R,2,hw-b-10-Mu,N,b,1080,N,N,N,Mu,6,48.0,B
+Steamboat WC,2025,M,HENKES Justus,R,3,hw-b-10-Mu,N,b,1080,N,N,N,Mu,6,67.5,B
+Steamboat WC,2025,M,KIMURA Yuto,R,1,f-19-I,N,f,1980,N,N,N,I,10,21.5,A
+Steamboat WC,2025,M,KIMURA Yuto,R,2,f-19-I,N,f,1980,N,N,N,I,10,93.25,A
+Steamboat WC,2025,M,KIMURA Yuto,R,3,Cab-19-Mu,Y,Cab,1980,N,N,N,Mu,10,36.75,B
+Steamboat WC,2025,M,MIYAMURA Yuto,R,1,b-19-Me,N,b,1980,N,N,N,Me,10,25.75,A
+Steamboat WC,2025,M,MIYAMURA Yuto,R,3,f-T-16-I,N,f,1600,N,Y,N,I,10,82.5,B
+Steamboat WC,2025,M,FARRELL Lyon,R,1,f-D-16-Tg,N,f,1600,Y,N,N,Tg,9.5,15.75,A
+Steamboat WC,2025,M,FARRELL Lyon,R,2,f-D-18-Tg,N,f,1800,Y,N,N,Tg,10,19.5,A
+Steamboat WC,2025,M,FARRELL Lyon,R,3,b-18-Ro,N,b,1800,N,N,N,Ro,9,84.75,B
+Steamboat WC,2025,M,ZHAO Yingxu,G,1,f-T-18-Me,N,f,1800,N,Y,N,Me,10,10.0,A
+Steamboat WC,2025,M,ZHAO Yingxu,G,2,f-18-Mu-to-Tg,N,f,1800,N,N,N,Tg,9,13.5,A
+Steamboat WC,2025,M,ZHAO Yingxu,G,3,f-18-I,N,f,1800,N,N,N,I,9,53.75,A
+Steamboat WC,2025,M,MAZET BROWN Txema,G,1,Cab-NB-14-Mu,Y,Cab,1440,N,N,N,Mu,8.5,28.5,
+Steamboat WC,2025,M,MAZET BROWN Txema,G,2,Cab-NB-14-Mu,Y,Cab,1440,N,N,N,Mu,8.5,85.5,
+Steamboat WC,2025,M,CANTER Jake,G,1,b-18-Me,N,b,1800,N,N,N,Me,9,36.5,
+Steamboat WC,2025,M,CANTER Jake,G,2,b-18-Me,N,b,1800,N,N,N,Me,9,84.75,
+Steamboat WC,2025,M,MATTEOLI Ian,R,1,f-18-Mu-to-Tg,N,f,1800,N,N,N,Tg,9,24.5,
+Steamboat WC,2025,M,MATTEOLI Ian,R,2,f-18-Mu-to-Tg,N,f,1800,N,N,N,Tg,9,84.25,
+Steamboat WC,2025,M,KIRKHUS Oyvind,R,1,x-b-Rd-12-Ng,Y,b,1260,N,N,Y,Ng,8.0,86.0,
+Steamboat WC,2025,M,ROISLAND Mons,R,1,x-b-Rd-12-I,Y,b,1260,N,N,Y,I,8.0,83.75,
+Steamboat WC,2025,M,ROISLAND Mons,R,2,x-b-D-12-I,Y,b,1260,Y,N,N,I,9.0,82.5,
+Steamboat WC,2025,M,DEPRIEST Brooklyn,R,1,x-b-T-19-Mu,Y,b,1980,N,Y,N,Mu,10,10.5,
+Steamboat WC,2025,M,DEPRIEST Brooklyn,R,2,x-b-T-19-Mu,Y,b,1980,N,Y,N,Mu,10,83.25,
+Steamboat WC,2025,M,FITZSIMONS Sean,R,1,f-T-18-Mu,N,f,1800,N,Y,N,Mu,10,81.75,
+Steamboat WC,2025,M,FITZSIMONS Sean,R,2,f-T-18-Mu,N,f,1800,N,Y,N,Mu,10,83.25,
+Steamboat WC,2025,M,JOBIN Francis,R,1,x-b-Rd-12-Ng,Y,b,1260,N,N,Y,Ng,8.0,83.0,
+Steamboat WC,2025,M,JOBIN Francis,R,2,x-b-d-Rd-12-Ng,Y,b,1260,N,N,Y,Ng,8.0,82.25,
+Steamboat WC,2025,M,VERMAAT Sam,R,1,f-D-18-Tg,N,f,1800,Y,N,N,Tg,10,76.0,
+Steamboat WC,2025,M,VERMAAT Sam,R,2,f-D-18-Tg,N,f,1800,Y,N,N,Tg,10,81.75,
+Steamboat WC,2025,M,JUKOLA Ville,R,1,f-18-Mu,N,f,1800,N,N,N,Mu,9,79.75,
+Steamboat WC,2025,M,BOUCHARD Eli,G,1,McB,N,f,,N,N,N,,,79.5,
+Steamboat WC,2025,M,FRAMARIN Loris,R,1,x-b-16-J,Y,b,1600,N,N,N,J,8.5,58.75,
+Steamboat WC,2025,M,FRAMARIN Loris,R,2,x-b-16-J,Y,b,1600,N,N,N,J,8.5,76.5,
+Steamboat WC,2025,M,VELDEN van der Niek,R,1,x-b-T-16-Tg,Y,b,1600,N,Y,N,Tg,10,74.25,
+Steamboat WC,2025,M,KUNITAKE Hiroaki,G,1,Cab-18-I,Y,Cab,1800,N,N,N,I,9.5,70.75,
+Steamboat WC,2025,M,LOTORTO Alex,G,1,b-16-Mu,N,b,1600,N,N,N,Mu,8,11.0,
+Steamboat WC,2025,M,LOTORTO Alex,G,2,b-16-Mu,N,b,1600,N,N,N,Mu,8,69.5,
+Steamboat WC,2025,M,SPALDING Cameron,R,1,Cab-14-Tg,Y,Cab,1440,N,N,N,Tg,8.5,60.75,
+Steamboat WC,2025,M,SPALDING Cameron,R,2,Cab-NB-14-Tg-to-Mu,Y,Cab,1440,N,N,N,Mu,8.5,68.25,
+Steamboat WC,2025,M,PARKINSON Jesse,R,1,b-16-Me,N,b,1600,N,N,N,Me,8,13.75,
+Steamboat WC,2025,M,PARKINSON Jesse,R,2,b-16-Me,N,b,1600,N,N,N,Me,8,67.75,
+Steamboat WC,2025,M,LEHNER Elias Lionel,G,1,x-b-16-Mu,Y,b,1600,N,N,N,Mu,8.5,66.0,
+Steamboat WC,2025,M,BULLOCK-WOMBLE Fynn,R,1,b-16-Ng,N,b,1600,N,N,N,Ng,8,66.0,
+Steamboat WC,2025,M,HENRICKSEN Dusty,G,1,b-14-J,N,b,1440,N,N,N,J,8,64.0,
+Steamboat WC,2025,M,JOHNSON Liam,R,1,x-b-T-14-Mu,Y,b,1440,N,Y,N,Mu,10,8.75,
+Steamboat WC,2025,M,JOHNSON Liam,R,2,x-b-T-14-Mu,Y,b,1440,N,Y,N,Mu,10,62.5,
+Steamboat WC,2025,M,GE Chunyu,G,1,f-D-10-oT,N,f,1080,Y,N,N,oT,7.5,62.0,
+Steamboat WC,2025,M,ROBERTSON-HAHN Joshua,R,1,f-18-Tg,N,f,1800,N,N,N,Tg,9,9.25,
+Steamboat WC,2025,M,ROBERTSON-HAHN Joshua,R,2,f-18-Tg,N,f,1800,N,N,N,Tg,9,60.5,
+Steamboat WC,2025,M,FERRY Lucas,R,1,b-16-Me,N,b,1600,N,N,N,Me,8,5.75,
+Steamboat WC,2025,M,FERRY Lucas,R,2,b-18-Me,N,b,1800,N,N,N,Me,9,59.75,
+Steamboat WC,2025,M,DHAWORNVEJ Caleb,R,1,f-D-14-Tg,N,f,1440,Y,N,N,Tg,9.5,59.5,
+Steamboat WC,2025,M,BRCIC Dante,R,1,x-b-T-12-I,Y,b,1260,N,Y,N,I,9.5,58.5,
+Steamboat WC,2025,M,SMITH Truth,G,1,b-16-Me,N,b,1600,N,N,N,Me,8,57.25,
+Steamboat WC,2025,M,JOZSA Martin,G,1,b-16-Tg,N,b,1600,N,N,N,Tg,8,56.75,
+Steamboat WC,2025,M,HUBER Niklas,R,1,b-T-16-Mu,N,b,1600,N,Y,N,Mu,10,56.5,
+Steamboat WC,2025,M,SCHWAB Alex,G,1,f-14-Me,N,f,1440,N,N,N,Me,8,9.5,
+Steamboat WC,2025,M,SCHWAB Alex,G,2,f-14-Me,N,f,1440,N,N,N,Me,8,53.0,
+Steamboat WC,2025,M,FRAMARIN Leo,R,1,Cab-18-I,Y,Cab,1800,N,N,N,I,9.5,20.5,
+Steamboat WC,2025,M,FRAMARIN Leo,R,2,Cab-18-I,Y,Cab,1800,N,N,N,I,9.5,52.0,
+Steamboat WC,2025,M,SOLOMON Will,R,1,b-T-14-Mu,N,b,1440,N,Y,N,Mu,10,41.25,
+Steamboat WC,2025,M,FEDOROWYCZ Lys,R,1,x-b-No-D-Rd-12-Mu,Y,b,1260,Y,N,Y,Mu,9.5,32.0,
+Steamboat WC,2025,M,LIVIERO Nicola,R,1,x-b-D-Rd-12-Ng,Y,b,1260,Y,N,Y,Ng,9.5,30.25,
+Steamboat WC,2025,M,ALMQVIST Gabriel,R,1,bF,N,f,,N,N,N,,,14.25,
+Steamboat WC,2025,M,ALMQVIST Gabriel,R,2,d-bF,N,f,,N,N,N,,,28.5,
+Steamboat WC,2025,M,GUSELI Valentino,R,1,x-b-16-Tg,Y,b,1600,N,N,N,Tg,8.5,17.5,
+Steamboat WC,2025,M,GUSELI Valentino,R,2,x-b-18-Tg,Y,b,1800,N,N,N,Tg,9.5,26.5,
+Steamboat WC,2025,M,LEE Dongheon,R,1,b-18-Tg,N,b,1800,N,N,N,Tg,9,18.0,
+Steamboat WC,2025,M,VICKTOR Noah,G,1,b-16-Me-to-Tg,N,b,1600,N,N,N,Tg,8,13.0,
+Steamboat WC,2025,M,VICKTOR Noah,G,2,b-16-Me-to-St,N,b,1600,N,N,N,St,8,18.0,
+Steamboat WC,2025,M,WROBEL Evan,G,1,Cab-14-Mu,Y,Cab,1440,N,N,N,Mu,8.5,10.5,
+Steamboat WC,2025,M,WROBEL Evan,G,2,Cab-14-Mu,Y,Cab,1440,N,N,N,Mu,8.5,17.0,
+Steamboat WC,2025,M,YANG Wenlong,G,1,b-18-Mu,N,b,1800,N,N,N,Mu,9,15.25,
+Steamboat WC,2025,M,CROUCH Brock,R,1,Cab-16-Ng,Y,Cab,1600,N,N,N,Ng,8.5,14.0,
+Steamboat WC,2025,M,LIU Haoyu,R,1,f-18-Mu-to-Tg,N,f,1800,N,N,N,Tg,9,13.25,
+Steamboat WC,2025,M,RICE Brian,G,1,b-19-Tg,N,b,1980,N,N,N,Tg,10,4.25,
+Steamboat WC,2025,M,RICE Brian,G,2,b-18-Ti,N,b,1800,N,N,N,Ti,9,12.5,
