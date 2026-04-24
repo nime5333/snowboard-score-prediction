@@ -194,5 +194,4 @@ spin measurement. This reflects a pattern found in the data and consistent with 
 
 Claude AI assisted with writing parsing and modeling code. All data decisions, 
 feature engineering choices, domain-specific judgments, experimental design, 
-and final parameter values were determined by me. Report writing and conclusions 
-are entirely my own work.
+and final parameter values were determined by me.
